@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: /assets/img/2021-10-Ryohei+Mogi-David+Fisher-03.jpg
+  image: prof_pic.jpg
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -15,6 +15,6 @@ social: true  # includes social icons at the bottom of the page
 
 Ryohei Mogi is a Postdoctoral Fellow in Sociology and Social Demography at the Department of Sociology, the Leverhulme Centre for Demographic Science, and Nuffield College at University of Oxford.
 
-He received his PhD in Demography at the Autonomous University of Barcelona and Centre for Demographic Studies in 2020 and European Research Certificate in Demography from the European Doctoral School of Demography at Max Planck Institute for Demographic Research and La Sapienza University of Rome.
-
 He is a demographer and seeks to understand the fertility decline and family changes by developing alternative measures and analysing the key factors of such decline and changes and its consequences. He particularly focuses on childlessness, mate search, and partnership formation.
+
+He received his PhD in Demography at the Autonomous University of Barcelona and Centre for Demographic Studies in 2020 and European Research Certificate in Demography from the European Doctoral School of Demography at Max Planck Institute for Demographic Research and La Sapienza University of Rome.
