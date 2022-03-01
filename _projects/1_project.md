@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Alternative measures
-description: Develop alternative measures in family demography
-img: assets/img/12.jpg
+description: To develop alternative measures in family demography
+img: assets/img/tools.jpg
 importance: 1
 category: work
 ---
+
+Aim
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
