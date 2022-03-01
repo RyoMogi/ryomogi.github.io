@@ -90,7 +90,7 @@
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">LINK</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
@@ -111,6 +111,9 @@
           {%- endif %}
           {%- if entry.code %}
             <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+          {%- endif %}
+          {%- if entry.Apps %}
+            <a href="{{ entry.Apps }}" class="btn btn-sm z-depth-0" role="button">Apps</a>
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
