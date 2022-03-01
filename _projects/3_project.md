@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Political demography
+description: Studies on the association between population changes and political behaviours
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
