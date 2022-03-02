@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Please have a look at the [CV](../assets/pdf/MOGI_CV_public.pdf) for more detail.
+description: Please have a look at the [CV](/assets/pdf/MOGI_CV_public.pdf) for more detail.
 nav: true
 ---
 Current position
