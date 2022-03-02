@@ -7,8 +7,9 @@ nav: true
 ---
 Current position
 ----------------
-<ul style="list-style:none;">
-<li>2021 -- Fellow in Sociology and Social Demography, Department of Sociology, University of Oxford (Oxford, United Kingdom). Also, affiliated with the Leverhulme Centre for Demographic Science as Postdoctoral researcher and Nuffield College as Non-stipendiary Research Fellow</li>
+<ul style="list-style:none;" class="columns" data-columns="2">
+<li>2021 -- </li>
+<li>Fellow in Sociology and Social Demography, Department of Sociology, University of Oxford (Oxford, United Kingdom). Also, affiliated with the Leverhulme Centre for Demographic Science as Postdoctoral researcher and Nuffield College as Non-stipendiary Research Fellow</li>
 </ul>
 
 ##Previous position
