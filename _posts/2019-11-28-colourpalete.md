@@ -11,25 +11,21 @@ I have been looking for a colour palette that looks great both in a colour versi
 
 I used to use the palette from this [website](http://dr-k-lo.blogspot.com/2013/07/a-color-blind-friendly-palette-for-r.html): a colour-blind and print-friendly. It worked very well when I used it for three colours. But I realised that more than five colours from this palette do not work so well in a grey scale. So, I started creating a palette myself and after spending "some" hours, I finally got a satisfied my version of the colour palette.
 
+- Colour version
 <div class="row mt-3">
-    <div class="center">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/colourpalette.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    In colour
-</div>
 
+- Printed version
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/colourpaletteBW.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    In grey (printed)
-</div>
 
-HEX format: `#08306B`, `#238B45`, `#FD8D3C`, `#D4B9DA`, `#FFEDA0`
+- HEX format: `#08306B`, `#238B45`, `#FD8D3C`, `#D4B9DA`, `#FFEDA0`
 
 Please feel free to use it if you like!
 
