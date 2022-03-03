@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alternative measures
-description: To develop alternative measures in family demography
+description: To develop alternative indicators to the study of family demography
 img: assets/img/tools.jpeg
 importance: 1
 category: work

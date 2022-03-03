@@ -25,4 +25,3 @@ He received his PhD in Demography at the Autonomous University of Barcelona and 
 ---
 
 <br />
-<br />
