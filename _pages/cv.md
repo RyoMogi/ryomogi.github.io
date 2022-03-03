@@ -2,9 +2,11 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xrk104EPfUoEkW/view?usp=sharing) for the full detail.
+description:
 nav: true
 ---
+
+Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xrk104EPfUoEkW/view?usp=sharing) for the full detail.
 
 #### Current position
 
