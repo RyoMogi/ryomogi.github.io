@@ -7,15 +7,15 @@ importance: 5
 category: work
 ---
 
-Aim
----
+#### Aim
+
 This project aims to analyse several outcomes related to wellbeing at later stages of life.
 
-Main data sources
------------------
+#### Main data sources
+
 - []()
 
-On-going papers
----------------
+#### On-going papers
+
 1. Furuya, S., Raymo, J., & Mogi, R. Living alone and trajectory of loneliness at older ages in Europe: Differences by contexts of the transition.
 2. Liu, C. & Mogi, R. 
