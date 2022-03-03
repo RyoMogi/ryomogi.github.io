@@ -6,31 +6,21 @@ description: 日本語ページ
 nav: true
 ---
 
-日本語表示されるか確認
+### 茂木良平
+オックスフォード大学社会学部、レバーヒューム人口問題研究所、ナッフィールドカレッジリサーチャー
+
+ryohei.mogi[at]sociology.ox.ac.uk
 
 <br />
 
-#### Current position
+#### プロフィール
+人口学者（人口学博士）。1989年生まれ。
 
-2021-- Postdoctral Fellow in Sociology and Social Demography, Department of Sociology, University of Oxford (Oxford, United Kingdom). Also, affiliated with the Leverhulme Centre for Demographic Science as Postdoctoral researcher and Nuffield College as Non-stipendiary Research Fellow
-
-<br />
-
-#### Previous position
-
-2020--2021 Postdoctoral researcher, Centre for Demographic Studies (Barcelona, Spain)  
-2019 Visiting research fellow, School of Demography at the Australian National University (Canberra, Australia)  
-2013--2014 Research assistant, National Institute of Population and Social Security Research (Tokyo, Japan)
+先進国の少子化問題をデータと統計を用いて分析している。特に、少子化をよりよく理解するための手法の開発、無子（子どもを1人も持たない）人口の理解、人口変化と政治行動の関連などの研究に力を入れている。少子化問題のEBPM（Evidence Based Policy Making）にも取り組んでいる。分野トップの国際学術誌に複数論文を掲載、国際学会での発表多数。
 
 <br />
 
-#### Education
+#### 他リンク
 
-2016--2020 Ph.D. in Demography. Geography Department at Autonomous University of Barcelona and Centre for Demographic Studies (Barcelona, Spain).  
-2016--2017 European Research Certificate in Demography (European Doctoral School of Demography; EDSD). Max Planck Institute for Demographic Research (Rostock, Germany) and La Sapienza University of Rome (Rome, Italy)
-
-<br />
-
-#### Other activities
-
-2021-- Co-founder of [Formal Demography Working Group](https://formaldemography.github.io/working_group/)
+ブログ（海外でのポスドク経験や人口学について解説）：[note.com](https://note.com/rmogimogi)
+ポッドキャスト（異分野の研究者に研究や人生を伺う番組）：[となりの研究室](https://tonaken.blogspot.com/)
