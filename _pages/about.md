@@ -18,3 +18,5 @@ Ryohei Mogi is a Postdoctoral Fellow in Sociology and Social Demography at the D
 He is a demographer and seeks to understand the fertility decline and family changes by developing alternative measures and analysing the key factors of such decline and changes and its consequences. He particularly focuses on childlessness, mate search, and partnership formation.
 
 He received his PhD in Demography at the Autonomous University of Barcelona and Centre for Demographic Studies in 2020 and European Research Certificate in Demography from the European Doctoral School of Demography at Max Planck Institute for Demographic Research and La Sapienza University of Rome.
+
+---
