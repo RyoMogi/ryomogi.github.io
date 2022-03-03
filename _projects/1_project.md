@@ -11,11 +11,13 @@ category: work
 
 This project aims to bring an alternative perspective to the study of family demography by measuring the *duration* of union and fertility events. I developed several new indicators for a better understanding of current family dynamics. I have focused on mainly high-income countries, but the methods can be applied to other groups of countries.
 
+<br />
 
 #### Main data sources
 
 - [Human Fertility Database](https://www.humanfertility.org/cgi-bin/main.php)
 
+<br />
 
 #### Publications
 

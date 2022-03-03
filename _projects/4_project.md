@@ -11,11 +11,13 @@ category: work
 
 This project aims to understand family demographic changes in Japan. Whilst many features of the Second Demographic Transition (SDT) is clearly visible in Japan (e.g., declining marriage, increasing divorce, declining fertility), Japan has distinctive trends from the general pattern of the SDT. Thus, I describe and analyse changes in family demographic behaviours in Japan compared to other high-income countries.
 
+<br />
 
 #### Main data sources
 
 - []()
 
+<br />
 
 #### Publications
 
@@ -24,6 +26,7 @@ See also my full publication list from CV
 2. Mogi, R. & Uchikoshi, F. (2019). [Revisiting the relationship between pregnancy intentions and timing: The mediating role of cohabitation](https://cde.wisc.edu/wp-content/uploads/sites/839/2019/11/cde-working-paper-2019-01-1.pdf). CDE Working Paper No.2019–01, Center for Demography and Ecology, University of Wisconsin-Madison.
 3. Uchikoshi, F. & Mogi, R. (2018). [Order matters: The effect of premarital pregnancy on second childbearing in Japan](https://www.demographic-research.org/volumes/vol39/48/). *Demographic Research* 39(48): 1305–1330.
 
+<br />
 
 #### On-going papers
 
