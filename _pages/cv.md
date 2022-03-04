@@ -44,12 +44,12 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 <table class="table table-sm table-borderless">
   <tr>
-    <th class="date" scope="row">2016--2020</th>
-    <td class="subject">Ph.D. in Demography. Geography Department at Autonomous University of Barcelona and Centre for Demographic Studies (Barcelona, Spain)</td>
+    <thstyle="width: 15%;" scope="row">2016--2020</th>
+    <td>Ph.D. in Demography. Geography Department at Autonomous University of Barcelona and Centre for Demographic Studies (Barcelona, Spain)</td>
   </tr>
   <tr>
-    <th class="date" scope="row">2016--2017</th>
-    <td class="subject">European Research Certificate in Demography (European Doctoral School of Demography; EDSD). Max Planck Institute for Demographic Research (Rostock, Germany) and La Sapienza University of Rome (Rome, Italy)</td>
+    <th style="width: 15%;" scope="row">2016--2017</th>
+    <td>European Research Certificate in Demography (European Doctoral School of Demography; EDSD). Max Planck Institute for Demographic Research (Rostock, Germany) and La Sapienza University of Rome (Rome, Italy)</td>
   </tr>
 </table>
 
@@ -59,7 +59,7 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 <table class="table table-sm table-borderless">
   <tr>
-    <th style="width: 30%;" scope="row">2021--</th>
-    <td>ACo-founder of <a href = "https://formaldemography.github.io/working_group/">Formal Demography Working Group</a></td>
+    <th style="width: 15%;" scope="row">2021--</th>
+    <td>Co-founder of <a href = "https://formaldemography.github.io/working_group/">Formal Demography Working Group</a></td>
   </tr>
 </table>
