@@ -4,9 +4,6 @@ permalink: /cv/
 title: CV
 description:
 nav: true
-th.date {
-  width: 30%
-}
 ---
 
 Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xrk104EPfUoEkW/view?usp=sharing) for the full detail.
