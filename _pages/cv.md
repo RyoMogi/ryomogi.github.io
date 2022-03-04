@@ -23,7 +23,7 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 ##### **Previous position**
 
-<table>
+<table class="table table-sm table-borderless">
   <tr>
     <th class="date" scope="row">2020--2021</th>
     <td>Postdoctoral researcher, Centre for Demographic Studies (Barcelona, Spain)</td>
@@ -42,13 +42,13 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 ##### **Education**
 
-<table>
+<table class="table table-sm table-borderless">
   <tr>
-    <td>2016--2020</td>
+    <th class="date" scope="row">2016--2020</th>
     <td>Ph.D. in Demography. Geography Department at Autonomous University of Barcelona and Centre for Demographic Studies (Barcelona, Spain)</td>
   </tr>
   <tr>
-    <td>2016--2017</td>
+    <th class="date" scope="row">2016--2017</th>
     <td>European Research Certificate in Demography (European Doctoral School of Demography; EDSD). Max Planck Institute for Demographic Research (Rostock, Germany) and La Sapienza University of Rome (Rome, Italy)</td>
   </tr>
 </table>
@@ -57,9 +57,9 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 ##### **Other activities**
 
-<table>
+<table class="table table-sm table-borderless">
   <tr>
-    <td>2021--XXXX</td>
+    <th class="date" scope="row">2021--</th>
     <td>Co-founder of [Formal Demography Working Group](https://formaldemography.github.io/working_group/)</td>
   </tr>
 </table>
