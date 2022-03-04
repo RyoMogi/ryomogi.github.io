@@ -6,19 +6,24 @@ description:
 nav: true
 ---
 
+td.date {
+  width: 30%
+}
+
 Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xrk104EPfUoEkW/view?usp=sharing) for the full detail.
 
 <br />
 
 ##### **Current position**
 
-
+<div class="table-responsive">
 <table class="table table-sm table-borderless">
   <tr>
     <td>2021--XXXX</td>
     <td>Postdoctral Fellow in Sociology and Social Demography, Department of Sociology, University of Oxford (Oxford, United Kingdom). Also, affiliated with the Leverhulme Centre for Demographic Science as Postdoctoral researcher and Nuffield College as Non-stipendiary Research Fellow</td>
   </tr>
 </table>
+</div>
 
 <br />
 
@@ -26,15 +31,15 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 <table>
   <tr>
-    <td>2020--2021</td>
+    <td class="date">2020--2021</td>
     <td>Postdoctoral researcher, Centre for Demographic Studies (Barcelona, Spain)</td>
   </tr>
   <tr>
-    <td>2019</td>
+    <td class="date">2019</td>
     <td>Visiting research fellow, School of Demography at the Australian National University (Canberra, Australia)</td>
   </tr>
   <tr>
-    <td>2013--2014</td>
+    <td class="date">2013--2014</td>
     <td>Research assistant, National Institute of Population and Social Security Research (Tokyo, Japan)</td>
   </tr>
 </table>
