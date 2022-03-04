@@ -13,14 +13,12 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 ##### **Current position**
 
 
-  <table class="table table-sm table-borderless">
-    <tr>
-      <th scope="row">2021--</th>
-      <td>
-        <a class="news-title">Postdoctral Fellow in Sociology and Social Demography, Department of Sociology, University of Oxford (Oxford, United Kingdom). Also, affiliated with the Leverhulme Centre for Demographic Science as Postdoctoral researcher and Nuffield College as Non-stipendiary Research Fellow</a>
-      </td>
-    </tr>
-  </table>
+<table class="table table-sm table-borderless">
+  <tr>
+    <th>2021-</th>
+    <td>Postdoctral Fellow in Sociology and Social Demography, Department of Sociology, University of Oxford (Oxford, United Kingdom). Also, affiliated with the Leverhulme Centre for Demographic Science as Postdoctoral researcher and Nuffield College as Non-stipendiary Research Fellow</td>
+  </tr>
+</table>
 
 <br />
 
@@ -29,12 +27,14 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 <table>
   <tr>
     <th>2020--2021</th>
-    <th>2019</th>
-    <th>2013--2014</th>
+    <th>Postdoctoral researcher, Centre for Demographic Studies (Barcelona, Spain)</th>
   </tr>
   <tr>
-    <td>Postdoctoral researcher, Centre for Demographic Studies (Barcelona, Spain)</td>
+    <td>2019</td>
     <td>Visiting research fellow, School of Demography at the Australian National University (Canberra, Australia)</td>
+  </tr>
+  <tr>
+    <td>2013--2014</td>
     <td>Research assistant, National Institute of Population and Social Security Research (Tokyo, Japan)</td>
   </tr>
 </table>
