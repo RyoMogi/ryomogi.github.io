@@ -15,7 +15,7 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 <table class="table table-sm table-borderless">
   <tr>
-    <th>2021-</th>
+    <td>2021--XXXX</td>
     <td>Postdoctral Fellow in Sociology and Social Demography, Department of Sociology, University of Oxford (Oxford, United Kingdom). Also, affiliated with the Leverhulme Centre for Demographic Science as Postdoctoral researcher and Nuffield College as Non-stipendiary Research Fellow</td>
   </tr>
 </table>
@@ -26,8 +26,8 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 <table>
   <tr>
-    <th>2020--2021</th>
-    <th>Postdoctoral researcher, Centre for Demographic Studies (Barcelona, Spain)</th>
+    <td>2020--2021</td>
+    <td>Postdoctoral researcher, Centre for Demographic Studies (Barcelona, Spain)</td>
   </tr>
   <tr>
     <td>2019</td>
@@ -43,11 +43,24 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 ##### **Education**
 
-2016--2020 Ph.D. in Demography. Geography Department at Autonomous University of Barcelona and Centre for Demographic Studies (Barcelona, Spain).  
-2016--2017 European Research Certificate in Demography (European Doctoral School of Demography; EDSD). Max Planck Institute for Demographic Research (Rostock, Germany) and La Sapienza University of Rome (Rome, Italy)
+<table>
+  <tr>
+    <td>2016--2020</td>
+    <td>Ph.D. in Demography. Geography Department at Autonomous University of Barcelona and Centre for Demographic Studies (Barcelona, Spain)</td>
+  </tr>
+  <tr>
+    <td>2016--2017</td>
+    <td>European Research Certificate in Demography (European Doctoral School of Demography; EDSD). Max Planck Institute for Demographic Research (Rostock, Germany) and La Sapienza University of Rome (Rome, Italy)</td>
+  </tr>
+</table>
 
 <br />
 
 ##### **Other activities**
 
-2021-- Co-founder of [Formal Demography Working Group](https://formaldemography.github.io/working_group/)
+<table>
+  <tr>
+    <td>2021--XXXX</td>
+    <td>Co-founder of [Formal Demography Working Group](https://formaldemography.github.io/working_group/)</td>
+  </tr>
+</table>
