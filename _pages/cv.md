@@ -14,7 +14,7 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 <table class="table table-sm table-borderless">
   <tr>
-    <th class="date" scope="row">2021--</th>
+    <th style="width: 15%;" scope="row">2021--</th>
     <td>Postdoctral Fellow in Sociology and Social Demography, Department of Sociology, University of Oxford (Oxford, United Kingdom). Also, affiliated with the Leverhulme Centre for Demographic Science as Postdoctoral researcher and Nuffield College as Non-stipendiary Research Fellow</td>
   </tr>
 </table>
@@ -25,15 +25,15 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 <table class="table table-sm table-borderless">
   <tr>
-    <th class="date" scope="row">2020--2021</th>
+    <th style="width: 15%;" scope="row">2020--2021</th>
     <td>Postdoctoral researcher, Centre for Demographic Studies (Barcelona, Spain)</td>
   </tr>
   <tr>
-    <th class="date" scope="row">2019</th>
+    <th style="width: 15%;" scope="row">2019</th>
     <td>Visiting research fellow, School of Demography at the Australian National University (Canberra, Australia)</td>
   </tr>
   <tr>
-    <th class="date" scope="row">2013--2014</th>
+    <th style="width: 15%;" scope="row">2013--2014</th>
     <td>Research assistant, National Institute of Population and Social Security Research (Tokyo, Japan)</td>
   </tr>
 </table>
@@ -44,7 +44,7 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 <table class="table table-sm table-borderless">
   <tr>
-    <thstyle="width: 15%;" scope="row">2016--2020</th>
+    <th style="width: 15%;" scope="row">2016--2020</th>
     <td>Ph.D. in Demography. Geography Department at Autonomous University of Barcelona and Centre for Demographic Studies (Barcelona, Spain)</td>
   </tr>
   <tr>
