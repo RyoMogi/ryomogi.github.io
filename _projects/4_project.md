@@ -7,19 +7,19 @@ importance: 4
 category: work
 ---
 
-#### Aim
+##### **Aim**
 
 This project aims to understand family demographic changes in Japan. Whilst many features of the Second Demographic Transition (SDT) is clearly visible in Japan (e.g., declining marriage, increasing divorce, declining fertility), Japan has distinctive trends from the general pattern of the SDT. Thus, I describe and analyse changes in family demographic behaviours in Japan compared to other high-income countries.
 
 <br />
 
-#### Main data sources
+##### **Main data sources**
 
 - []()
 
 <br />
 
-#### Publications
+##### **Publications**
 
 See also my full publication list from CV
 1. Fukuda, S., Yoda, S., & Mogi, R. (2021). [Educational assortative mating in Japan: Evidence from the 1980–2010 Census](https://www.jstage.jst.go.jp/article/jps/advpub/0/advpub_2101001/_article/-char/en). *The Journal of Population Studies*.
@@ -28,6 +28,6 @@ See also my full publication list from CV
 
 <br />
 
-#### On-going papers
+##### **On-going papers**
 
 1. Mogi, R., Raymo, J., Fukuda, S., Yoda, S., & Iwasawa, M. An alternative version of the second demographic transition? The link between marriage and fertility and changing pathways to first marriage in Japan.
