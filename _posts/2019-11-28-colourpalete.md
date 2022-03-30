@@ -2,7 +2,7 @@
 layout: post
 title:  The print-friendly (grey scale) categorical colour palette
 date: 2019-11-28 09:26:00
-description: this is what included images could look like
+description: The print-friendly (grey scale) categorical colour palette
 tags: R, rstats
 categories: R
 ---
