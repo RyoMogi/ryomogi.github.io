@@ -14,8 +14,8 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 
 <table class="table table-sm table-borderless">
   <tr>
-    <th style="width: 15%;" scope="row">2021--</th>
-    <td>Postdoctral Fellow in Sociology and Social Demography, Department of Sociology, University of Oxford (Oxford, United Kingdom). Also, affiliated with the Leverhulme Centre for Demographic Science as Postdoctoral researcher and Nuffield College as Non-stipendiary Research Fellow</td>
+    <th style="width: 15%;" scope="row">2022--</th>
+    <td>Postdoctral researcher at the Interdisciplinary Centre on Population Dynamics, University of Southern Denmark</td>
   </tr>
 </table>
 
@@ -24,6 +24,10 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 ##### **Previous position**
 
 <table class="table table-sm table-borderless">
+  <tr>
+    <th style="width: 15%;" scope="row">2021--2022</th>
+    <td>Postdoctral Fellow in Sociology and Social Demography, Department of Sociology, University of Oxford (Oxford, United Kingdom). Also, affiliated with the Leverhulme Centre for Demographic Science and Nuffield College</td>
+  </tr>
   <tr>
     <th style="width: 15%;" scope="row">2020--2021</th>
     <td>Postdoctoral researcher, Centre for Demographic Studies (Barcelona, Spain)</td>
