@@ -15,7 +15,7 @@ Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xr
 <table class="table table-sm table-borderless">
   <tr>
     <th style="width: 15%;" scope="row">2022--</th>
-    <td>Postdoctral researcher at the Interdisciplinary Centre on Population Dynamics, University of Southern Denmark</td>
+    <td>Postdoctral researcher at the Interdisciplinary Centre on Population Dynamics, University of Southern Denmark (Odense, Denmark)</td>
   </tr>
 </table>
 
