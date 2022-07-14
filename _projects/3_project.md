@@ -19,8 +19,14 @@ This project aims to understand 1) the impact of political changes on population
 
 <br />
 
+##### **Publications**
+
+See also my full publication list from CV
+1. Mogi, R., & Arpino, B. (forthcoming). The association between childlessness and voting turnout in 38 countries. *Demographic Research*
+
+<br />
+
 ##### **On-going papers**
 
-1. Mogi, R., & Arpino, B. The association between childlessness and voting turnout in 38 countries.
-2. Mogi, R., & Monden, C. 
-3. Arpino, B. & Mogi, R. Political ideology and fertility intentions in Europe.
+1. Mogi, R., & Monden, C. “Daughter’s effect” on left-right political spectrum in Europe.
+2. Arpino, B. & Mogi, R. Political ideology and fertility intentions in Europe.
