@@ -22,7 +22,7 @@ This project aims to understand 1) the impact of political changes on population
 ##### **Publications**
 
 See also my full publication list from CV
-1. Mogi, R., & Arpino, B. (forthcoming). The association between childlessness and voting turnout in 38 countries. *Demographic Research*
+1. Mogi, R., & Arpino, B. (2022). [The association between childlessness and voting turnout in 38 countries](https://www.demographic-research.org/volumes/vol47/14/). *Demographic Research* 47(14): 397-414.
 
 <br />
 
