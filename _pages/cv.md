@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-Please have a look at [CV](https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xrk104EPfUoEkW/view?usp=sharing) for the full detail.
+Please have a look at [CV]([https://drive.google.com/file/d/1Ugyip8TWh0OUb0Fyd0xrk104EPfUoEkW/view?usp=sharing](https://syddanskuni-my.sharepoint.com/:b:/g/personal/rymo_sdu_dk/ERLXNteHdxhIh5JPvABIVcYBWrPvFwI7uQWPTB1g7DLgcQ?e=cltnjf)) for the full detail.
 
 <br />
 
