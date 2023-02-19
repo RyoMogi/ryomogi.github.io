@@ -23,9 +23,8 @@ This project aims to analyse romantic relationship (having a partner or not) as 
 
 See also my full publication list from CV
 1. Mogi, R., & Vignoli, D. (2021). [Sexual debut and dating of university students in low fertility societies: Italy and Japan](https://local.disia.unifi.it/wp_disia/2021/wp_disia_2021_06.pdf). DISIA Working Paper 2021/06. University of Firenze.
+2. Mogi, R., Mugiyama, R., & Alderotti, G. [Employemnt uncertainty and partnership status in very-low fertility countries](https://local.disia.unifi.it/wp_disia/2022/wp_disia_2022_07.pdf). DISIA Working Paper 2022/07. University of Firenze.
 
 <br />
 
 ##### **On-going papers**
-
-1. Mogi, R., Mugiyama, R., & Alderotti, G. Employemnt uncertainty and partnership status in very-low fertility countries.
