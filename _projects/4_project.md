@@ -30,4 +30,4 @@ See also my full publication list from CV
 
 ##### **On-going papers**
 
-1. Mogi, R., Raymo, J., Fukuda, S., Yoda, S., & Iwasawa, M. An alternative version of the second demographic transition? The link between marriage and fertility and changing pathways to first marriage in Japan.
+1. Mogi, R., Raymo, J., Iwasawa, M., Yoda, S. An alternative version of the second demographic transition? Changing pathways to first marriage in Japan.
