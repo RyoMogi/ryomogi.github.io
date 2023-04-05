@@ -25,6 +25,9 @@ nav: true
 
 #### メディア掲載
 1. [｢次元の異なる」対策は日本を救えるのか､少子化の背景と見通し－Q&A](https://www.bloomberg.co.jp/news/articles/2023-03-23/RRYJO4DWX2PS01?srnd=cojp-v2). Bloomberg Japan. 2023年3月23日.
+2. [Two numbers say a lot about how we have children today: Fertility expert calls it both a “triumph and an accident”](https://www.berlingske.dk/samfund/to-tal-siger-en-hel-del-om-hvordan-vi-i-dag-faar-boern-fertilitetsekspert). Berlingske. 2023年4月3日.（デンマーク語）
+3. [Fertility is now a global challenge - report exposes one important truth](https://nyheder.tv2.dk/samfund/2023-04-04-fertilitet-er-nu-en-global-udfordring-rapport-blotlaegger-en-vigtig-sandhed). Nyheder TV2. 2023年4月4日.（デンマーク語）
+4. [New mothers are getting older - but in East Jutland there is still a preponderance of teenage mothers](https://www.tv2ostjylland.dk/oestjylland/nye-moedre-bliver-aeldre-men-i-oestjylland-er-der-stadig-overvaegt-af-teenage-moedre). TV2 Østjylland. 2023年4月5日.（デンマーク語）
 
 <br />
 
