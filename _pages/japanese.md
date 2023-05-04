@@ -24,12 +24,13 @@ nav: true
 <br />
 
 #### メディア掲載
-1. [｢次元の異なる」対策は日本を救えるのか､少子化の背景と見通し－Q&A](https://www.bloomberg.co.jp/news/articles/2023-03-23/RRYJO4DWX2PS01?srnd=cojp-v2). Bloomberg Japan. 2023年3月23日.
-2. [人口学](https://note.com/rmogimogi/n/n0a5e79164b86). JDnet. 2023年3月.
-3. [Two numbers say a lot about how we have children today: Fertility expert calls it both a “triumph and an accident”](https://www.berlingske.dk/samfund/to-tal-siger-en-hel-del-om-hvordan-vi-i-dag-faar-boern-fertilitetsekspert). Berlingske. 2023年4月3日.（デンマーク語）
-4. [Fertility is now a global challenge - report exposes one important truth](https://nyheder.tv2.dk/samfund/2023-04-04-fertilitet-er-nu-en-global-udfordring-rapport-blotlaegger-en-vigtig-sandhed). Nyheder TV2. 2023年4月4日.（デンマーク語）
-5. [New mothers are getting older - but in East Jutland there is still a preponderance of teenage mothers](https://www.tv2ostjylland.dk/oestjylland/nye-moedre-bliver-aeldre-men-i-oestjylland-er-der-stadig-overvaegt-af-teenage-moedre). TV2 Østjylland. 2023年4月5日.（デンマーク語）
-6. [各国異なる状況、制度より環境](https://note.com/rmogimogi/n/n3c6abfdbc827). 朝日中高生新聞. 2023年4月9日.
+1. [新入生へのメッセージ](https://note.com/rmogimogi/n/nb6eb3f0c04ea). 明治大学政治経済学部新入生ガイドブック.2023年.
+2. [｢次元の異なる」対策は日本を救えるのか､少子化の背景と見通し－Q&A](https://www.bloomberg.co.jp/news/articles/2023-03-23/RRYJO4DWX2PS01?srnd=cojp-v2). Bloomberg Japan. 2023年3月23日.
+3. [人口学](https://note.com/rmogimogi/n/n0a5e79164b86). JDnet. 2023年3月.
+4. [Two numbers say a lot about how we have children today: Fertility expert calls it both a “triumph and an accident”](https://www.berlingske.dk/samfund/to-tal-siger-en-hel-del-om-hvordan-vi-i-dag-faar-boern-fertilitetsekspert). Berlingske. 2023年4月3日.（デンマーク語）
+5. [Fertility is now a global challenge - report exposes one important truth](https://nyheder.tv2.dk/samfund/2023-04-04-fertilitet-er-nu-en-global-udfordring-rapport-blotlaegger-en-vigtig-sandhed). Nyheder TV2. 2023年4月4日.（デンマーク語）
+6. [New mothers are getting older - but in East Jutland there is still a preponderance of teenage mothers](https://www.tv2ostjylland.dk/oestjylland/nye-moedre-bliver-aeldre-men-i-oestjylland-er-der-stadig-overvaegt-af-teenage-moedre). TV2 Østjylland. 2023年4月5日.（デンマーク語）
+7. [各国異なる状況、制度より環境](https://note.com/rmogimogi/n/n3c6abfdbc827). 朝日中高生新聞. 2023年4月9日.
 
 <br />
 
