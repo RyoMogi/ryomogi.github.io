@@ -32,12 +32,13 @@ nav: true
 6. [New mothers are getting older - but in East Jutland there is still a preponderance of teenage mothers](https://www.tv2ostjylland.dk/oestjylland/nye-moedre-bliver-aeldre-men-i-oestjylland-er-der-stadig-overvaegt-af-teenage-moedre). TV2 Østjylland. 2023年4月5日.（デンマーク語）
 7. [各国異なる状況、制度より環境](https://note.com/rmogimogi/n/n3c6abfdbc827). 朝日中高生新聞. 2023年4月9日.
 8. [北欧の急激な少子化!日本の少子化対策は?](https://abema.tv/video/episode/89-71_s10_p4972). ABEMAヒルズ. 2023年5月31日.
-9. [「子を持ちたい」かなえるには　1日7時間労働の提案も　識者に聞く（下）](https://www.nikkei.com/article/DGXZQOUD154M90V10C23A5000000/). 日経新聞. 2023年6月1日.
+9. [「子を持ちたい」かなえるには　1日7時間労働の提案も　識者に聞く（下）](https://www.nikkei.com/article/DGXZQOUD154M90V10C23A5000000/). 日本経済新聞. 2023年6月1日.
 
 <br />
 
 #### 他リンク
 
+- [少子化研究者による世界の少子化の現状解説]（https://note.com/rmogimogi/m/m01ce87a24ed5）
 - EBPMデータベース：[EBPMデータベース](https://cyberagentailab.github.io/EBPMDB/)
 - ブログ（海外でのポスドク経験や人口学について解説）：[note.com](https://note.com/rmogimogi)
 - ポッドキャスト（異分野の研究者に研究や人生を伺う番組）：[となりの研究室](https://tonaken.blogspot.com/)を共同運営
