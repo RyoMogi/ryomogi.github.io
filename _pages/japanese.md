@@ -38,7 +38,7 @@ nav: true
 
 #### 他リンク
 
-- [少子化研究者による世界の少子化の現状解説]（https://note.com/rmogimogi/m/m01ce87a24ed5）
+- 少子化研究者による世界の少子化の現状解説：[リンク](https://note.com/rmogimogi/m/m01ce87a24ed5)
 - EBPMデータベース：[EBPMデータベース](https://cyberagentailab.github.io/EBPMDB/)
 - ブログ（海外でのポスドク経験や人口学について解説）：[note.com](https://note.com/rmogimogi)
 - ポッドキャスト（異分野の研究者に研究や人生を伺う番組）：[となりの研究室](https://tonaken.blogspot.com/)を共同運営
