@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-Please have a look at [CV](https://syddanskuni-my.sharepoint.com/:b:/g/personal/rymo_sdu_dk/ERLXNteHdxhIh5JPvABIVcYBWrPvFwI7uQWPTB1g7DLgcQ?e=cDJPIr) for the full detail.
+Please have a look at [CV](https://syddanskuni-my.sharepoint.com/:b:/g/personal/rymo_sdu_dk/ERLXNteHdxhIh5JPvABIVcYBWrPvFwI7uQWPTB1g7DLgcQ?e=2SLaJR) for the full detail.
 
 <br />
 
