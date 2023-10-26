@@ -35,6 +35,7 @@ nav: true
 9. [「子を持ちたい」かなえるには　1日7時間労働の提案も　識者に聞く（下）](https://www.nikkei.com/article/DGXZQOUD154M90V10C23A5000000/). 日本経済新聞. 2023年6月1日.
 10. [子供の有無、所得が影響　「格差感じる」8割](https://www.nikkei.com/article/DGXZQOUD251DY0V20C23A7000000/). 日本経済新聞. 2023年8月10日.
 11. [なぜ日本で少子化が起きているのか？＝結婚行動の変化と背景にある要因](https://www.theheadline.jp/articles/927). The HEADLINE. 2023年9月1日.
+12. [日本の人口減～北欧から考える　第１回　北欧の出生率も急減　他国でも進む少子化](https://www.nikkei.com/compass/content/GL1KDB20231016G050/preview). 日経グローカル. 2023年10月16日.
 
 <br />
 
