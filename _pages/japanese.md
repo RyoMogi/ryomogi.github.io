@@ -39,6 +39,7 @@ nav: true
 13. [日本の人口減～北欧から考える　第２回　日本の少子化の大きな要因は　結婚したいのにできない人の増加](https://www.nikkei.com/compass/content/GL1KDB20231120G050/preview). 日経グローカル.2023年11月20日.
 14. [日本の人口減～北欧から考える　第３回　約７割の未婚者は交際相手なし　出会いの場減少や経済力が影響](https://www.nikkei.com/compass/content/GL1KDB20231218G058/preview). 日経グローカル.2023年12月18日.
 15. [「子ども3人扶養で大学無償化」　賛否の背景は](https://www.nikkei.com/article/DGXZQOUD151QA0V11C23A2000000/). 日本経済新聞. 2023年12月21日.
+16. [日本の人口減～北欧から考える　第４回　少子化対策は人口減を止められない　減少見据えた社会づくりが必要に](https://www.nikkei.com/compass/content/GL1KDB20240115G062/preview). 日経グローカル.2024年1月15日.
 
 <br />
 
