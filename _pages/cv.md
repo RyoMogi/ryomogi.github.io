@@ -15,6 +15,10 @@ Please have a look at [CV](https://syddanskuni-my.sharepoint.com/:b:/g/personal/
 <table class="table table-sm table-borderless">
   <tr>
     <th style="width: 15%;" scope="row">2023--</th>
+    <td>Juan de la Cierva Fellow at the Department of Political and Social Sciences, Pompeu Fabra University (Barcelona, Spain) </td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2023--</th>
     <td>Assistant Professor at the Interdisciplinary Centre on Population Dynamics, University of Southern Denmark (Odense, Denmark)</td>
   </tr>
 </table>
