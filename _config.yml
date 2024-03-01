@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ryohei
 middle_name:
 last_name: Mogi
-email: rymo@sdu.dk
+email: ryohei.mogi@upf.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ryohei Mogi, family demographer, a personal website
 footer_text: >
