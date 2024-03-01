@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ryohei Mogi is an Assistant Professor at the Interdisciplinary Centre on Population Dynamics (CPop), University of Southern Denmark.
+Ryohei Mogi is a Juan de la Cierva Fellow at the Department of Political and Social Sciences, Pompeu Fabra University (Barcelona, Spain) and an Assistant Professor at the Interdisciplinary Centre on Population Dynamics (CPop), University of Southern Denmark.
 
 He is a demographer and seeks to understand the fertility decline and family changes by developing alternative measures and analysing the key factors of such decline and changes and its consequences. He particularly focuses on childlessness, mate search, and partnership formation.
 
