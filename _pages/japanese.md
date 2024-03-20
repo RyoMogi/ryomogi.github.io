@@ -45,6 +45,7 @@ nav: true
 15. [「子ども3人扶養で大学無償化」　賛否の背景は](https://www.nikkei.com/article/DGXZQOUD151QA0V11C23A2000000/). 日本経済新聞. 2023年12月21日.
 16. [日本の人口減～北欧から考える　第４回　少子化対策は人口減を止められない　減少見据えた社会づくりが必要に](https://www.nikkei.com/compass/content/GL1KDB20240115G062/preview). 日経グローカル. 2024年1月15日.
 17. [日本の人口減～北欧から考える　第５回　少子化対策、自治体ごとに設計を　異なる社会的背景に目を向けるべき](https://www.nikkei.com/compass/content/GL1KDB20240219G050/preview). 日経グローカル. 2024年2月19日.
+18. [日本の人口減～北欧から考える　第６回（最終回）　少子化対策の効果小さいのは何故か　目的を再確認してビジョン共有を](https://www.nikkei.com/compass/content/GL1KDB20240318G066/preview). 日経グローカル. 2024年3月18日.
 
 <br />
 
