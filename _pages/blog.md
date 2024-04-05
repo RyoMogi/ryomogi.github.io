@@ -1,7 +1,7 @@
 ---
 layout: redirect
 redirect: https://medium.com/@rmogi
-permalink: /Blog/
+permalink: /blog/
 title: Blog
 nav: true
 nav_order: 5
