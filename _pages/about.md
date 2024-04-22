@@ -22,9 +22,7 @@ He received his PhD in Demography at the Autonomous University of Barcelona and 
 <br />
 <br />
 
----
-
-Articles for lay audience regarding low fertility: [Medium](https://medium.com/@rmogi)
+I am writing articles for lay audience regarding low fertility: [Medium](https://medium.com/@rmogi).
 
 ---
 
