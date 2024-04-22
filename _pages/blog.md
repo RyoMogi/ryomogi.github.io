@@ -1,6 +1,6 @@
 ---
 layout: redirect
-redirect: https://medium.com/@rmogi
+redirect: https://rmogi.medium.com/
 permalink: /blog/
 title: Blog
 nav: true
