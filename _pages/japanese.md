@@ -49,6 +49,7 @@ nav: true
 19. [欧州少子化事情　第１回　デンマーク　１．７と高めの出生率に　政策はどう関係してるか](https://www.nikkei.com/compass/content/GL1KDB20240415G046/preview). 日経グローカル. 2024年4月15日.
 20. [少子化、欧州で再加速　仏やフィンランドで出生率低下](https://www.nikkei.com/article/DGXZQOFE15AU30V10C24A2000000/). 日本経済新聞. 2024年5月18日.
 21. [欧州少子化事情　第２回　スペイン　高いカップルの同居年齢　日本と同様に「超低出産国」](https://www.nikkei.com/compass/content/GL1KDB20240520G090/preview). 日経グローカル. 2024年5月20日.
+22. [ママこそ知りたい「少子化」の今](https://veryweb.jp/fashion/686661/). VERY. 2024年6月7日.
 
 <br />
 
