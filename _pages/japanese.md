@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /japanese/
-title: Japanese
+title: 茂木良平
 description: 日本語ページ
 nav: true
 ---
@@ -50,6 +50,11 @@ nav: true
 20. [少子化、欧州で再加速　仏やフィンランドで出生率低下](https://www.nikkei.com/article/DGXZQOFE15AU30V10C24A2000000/). 日本経済新聞. 2024年5月18日.
 21. [欧州少子化事情　第２回　スペイン　高いカップルの同居年齢　日本と同様に「超低出産国」](https://www.nikkei.com/compass/content/GL1KDB20240520G090/preview). 日経グローカル. 2024年5月20日.
 22. [ママこそ知りたい「少子化」の今](https://veryweb.jp/fashion/686661/). VERY. 2024年6月7日.
+23. 福井県独自の支援策”低い認知度”が課題. 福井テレビ. 2024年6月12日.
+24. [子育て支援、発信強化を](https://www.fukuishimbun.co.jp/articles/-/2059900). 福井新聞. 2024年6月13日.
+25. 県こども計画策定始まる. 日刊県民福井. 2024年6月16日.
+26. [県こども計画策定へ応援会議。独自施策の認知度課題](https://www.chunichi.co.jp/article/913917). 中日新聞. 2024年6月16日.
+27. TODAY’S FOCUS. JFN系列OH! HAPPY MORNING. 2024年6月19日.
 
 <br />
 
