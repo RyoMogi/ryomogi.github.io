@@ -54,7 +54,7 @@ nav: true
 26. [県こども計画策定へ応援会議。独自施策の認知度課題](https://www.chunichi.co.jp/article/913917). 中日新聞. 2024年6月16日.
 27. [欧州少子化事情　第３回　ハンガリー 合計特殊出生率の急回復は本物か](https://www.nikkei.co.jp/rim/glweb/kiji/saishin-kiji.pdf). 日経グローカル. 2024年6月17日.
 28. TODAY’S FOCUS. JFN系列OH! HAPPY MORNING. 2024年6月19日.
-29. なぜ少子化対策をしても人口減少は止まらないのか？ 週刊プレイボーイ. 2024年6月24日.
+29. [なぜ少子化対策をしても人口減少は止まらないのか？](https://wpb.shueisha.co.jp/news/society/2024/06/28/123687/) 週刊プレイボーイ. 2024年6月24日.
 
 <br />
 
