@@ -56,6 +56,7 @@ nav: true
 28. TODAY’S FOCUS. JFN系列OH! HAPPY MORNING. 2024年6月19日.
 29. [家事育児の分担、理想は「半々」だけど実態は　福井県意識調査](https://www.asahi.com/articles/ASS6M44JWS6MPGJB00SM.html). 朝日新聞デジタル. 2024年6月20日.
 30. [なぜ少子化対策をしても人口減少は止まらないのか？](https://wpb.shueisha.co.jp/news/society/2024/06/28/123687/) 週刊プレイボーイ. 2024年6月24日.
+31. 「官製婚活した人」の肖像. 週刊SPA！. 2024年7月2日.
 
 <br />
 
