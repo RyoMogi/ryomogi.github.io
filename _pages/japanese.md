@@ -52,11 +52,13 @@ nav: true
 24. [子育て支援、発信強化を](https://www.fukuishimbun.co.jp/articles/-/2059900). 福井新聞. 2024年6月13日.
 25. 県こども計画策定始まる. 日刊県民福井. 2024年6月16日.
 26. [県こども計画策定へ応援会議。独自施策の認知度課題](https://www.chunichi.co.jp/article/913917). 中日新聞. 2024年6月16日.
-27. [欧州少子化事情　第３回　ハンガリー 合計特殊出生率の急回復は本物か](https://www.nikkei.co.jp/rim/glweb/kiji/saishin-kiji.pdf). 日経グローカル. 2024年6月17日.
+27. [欧州少子化事情　第３回　ハンガリー 合計特殊出生率の急回復は本物か](https://www.nikkei.com/compass/content/GL1KDB20240617G062/preview). 日経グローカル. 2024年6月17日.
 28. TODAY’S FOCUS. JFN系列OH! HAPPY MORNING. 2024年6月19日.
 29. [家事育児の分担、理想は「半々」だけど実態は　福井県意識調査](https://www.asahi.com/articles/ASS6M44JWS6MPGJB00SM.html). 朝日新聞デジタル. 2024年6月20日.
 30. [なぜ少子化対策をしても人口減少は止まらないのか？](https://wpb.shueisha.co.jp/news/society/2024/06/28/123687/) 週刊プレイボーイ. 2024年6月24日.
 31. 「官製婚活した人」の肖像. 週刊SPA！. 2024年7月2日.
+32. [欧州少子化事情　第４回　フランス 日本と類似点多い少子化対策　高い出生率、移民の影響は小さい](https://www.nikkei.com/compass/content/GL1KDB20240715G048/preview). 日経グローカル. 2024年7月15日.
+33. [欧州少子化事情　第５回　ドイツ やや遅れた少子化対策の拡充　ナチス時代の影、出生増加策に二の足](https://www.nikkei.com/compass/content/GL1KDB20240819G060/preview). 日経グローカル. 2024年8月19日.
 
 <br />
 
