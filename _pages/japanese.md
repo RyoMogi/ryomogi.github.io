@@ -59,6 +59,7 @@ nav: true
 31. 「官製婚活した人」の肖像. 週刊SPA！. 2024年7月2日.
 32. [欧州少子化事情　第４回　フランス 日本と類似点多い少子化対策　高い出生率、移民の影響は小さい](https://www.nikkei.com/compass/content/GL1KDB20240715G048/preview). 日経グローカル. 2024年7月15日.
 33. [欧州少子化事情　第５回　ドイツ やや遅れた少子化対策の拡充　ナチス時代の影、出生増加策に二の足](https://www.nikkei.com/compass/content/GL1KDB20240819G060/preview). 日経グローカル. 2024年8月19日.
+34. [欧州少子化事情　第６回（最終回）　英国　多子世帯多いが無子世帯も増加　保育料の高さに悪戦苦闘](https://www.nikkei.com/compass/content/GL1KDB20240916G048/preview). 日経グローカル. 2024年9月16日.
 
 <br />
 
