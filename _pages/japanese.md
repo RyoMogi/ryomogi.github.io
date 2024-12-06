@@ -61,6 +61,7 @@ nav: true
 33. [欧州少子化事情　第５回　ドイツ やや遅れた少子化対策の拡充　ナチス時代の影、出生増加策に二の足](https://www.nikkei.com/compass/content/GL1KDB20240819G060/preview). 日経グローカル. 2024年8月19日.
 34. [欧州少子化事情　第６回（最終回）　英国　多子世帯多いが無子世帯も増加　保育料の高さに悪戦苦闘](https://www.nikkei.com/compass/content/GL1KDB20240916G048/preview). 日経グローカル. 2024年9月16日.
 35. [少子化を知るための人口統計の読み方　第１回　統計による「人口」の違いに注意を](https://www.nikkei.com/compass/content/GL1KDB20241021G052/preview). 日経グローカル. 2024年10月21日.
+36. [少子化を知るための人口統計の読み方　第２回　合計特殊出生率の落とし穴](https://www.nikkei.com/compass/content/GL1KDB20241118G058/preview). 日経グローカル. 2024年11月18日.
 
 <br />
 
