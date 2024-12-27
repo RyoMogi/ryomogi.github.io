@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-<img width = "450" alt = "写真" src = "/assets/img/prof_pic.png">
+<img width = "450" alt = "写真" src = "/assets/img/prof_pic.jpg">
 
 人口学者（人口学博士）。1989年生まれ。
 
@@ -44,6 +44,8 @@ nav: true
 | 2024年〜現在 | ： 佐賀県佐賀市希望のライフコースに関する調査（調査設計、分析、報告書作成）|
 
 有識者ヒアリング ： 東京都、東京都港区、神奈川県横浜市、石川県加賀市
+
+<br />
 
 #### メディア掲載
 - [少子化を知るための人口統計の読み方　第２回　合計特殊出生率の落とし穴](https://www.nikkei.com/compass/content/GL1KDB20241118G058/preview). 日経グローカル. 2024年11月18日.
