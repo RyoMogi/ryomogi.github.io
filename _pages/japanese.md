@@ -5,8 +5,9 @@ title: 茂木良平
 description: 
 nav: true
 ---
-
-<img width = "300" alt = "写真" src = "/assets/img/prof_pic.jpg">
+<div align="right">
+<img width = "200" alt = "写真" src = "/assets/img/prof_pic.jpg">
+</div>
 
 人口学者（人口学博士）。1989年生まれ。
 
@@ -130,10 +131,3 @@ nav: true
 #### 学術論文
 
 当サイトのCV、もしくは[Google Scholar](https://scholar.google.com/citations?user=gfakESwAAAAJ&hl=en)をご覧ください
-
-#### 他リンク
-
-- 少子化研究者による世界の少子化の現状解説：[リンク](https://note.com/rmogimogi/m/m01ce87a24ed5)
-- EBPMデータベース：[EBPMデータベース](https://cyberagentailab.github.io/EBPMDB/)
-- ブログ（海外でのポスドク経験や人口学について解説）：[note.com](https://note.com/rmogimogi)
-- ポッドキャスト（異分野の研究者に研究や人生を伺う番組）：[となりの研究室](https://tonaken.blogspot.com/)を共同運営
