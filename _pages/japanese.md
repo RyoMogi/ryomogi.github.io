@@ -6,13 +6,12 @@ description:
 nav: true
 ---
 
-<img width = "450" alt = "写真" src = "/assets/img/prof_pic.jpg">
-
+| :-- | :-- |
 人口学者（人口学博士）。1989年生まれ。
 
 南デンマーク大学 助教  
 ポンペウ・ファブラ大学 研究員  
-国立社会保障・人口問題研究所 客員研究員
+国立社会保障・人口問題研究所 客員研究員 | <img width = "300" alt = "写真" src = "/assets/img/prof_pic.jpg"> |
 
 学位：バルセロナ自治大学 人口学センター 博士課程修了（人口学Ph.D.取得）
 
