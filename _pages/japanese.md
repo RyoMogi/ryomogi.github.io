@@ -22,7 +22,7 @@ nav: true
 
 <br />
 
-![alt text](assets/img/Mission_Mogi.png "研究者としてのミッション")
+<img width = "250" alt = "研究者としてのミッション" src = "assets/img/Mission_Mogi.png">
 
 #### SNS
 
