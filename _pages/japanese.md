@@ -4,10 +4,9 @@ permalink: /japanese/
 title: 茂木良平
 description: 
 nav: true
-
-profile:
-  image: prof_pic.jpg
 ---
+
+
 
 人口学者（人口学博士）。1989年生まれ。
 
@@ -23,7 +22,7 @@ profile:
 
 <br />
 
-<img width = "250" alt = "研究者としてのミッション" src = "file:///assets/img/Mission_Mogi.png">
+<img width = "250" alt = "研究者としてのミッション" src = "/assets/img/Mission_Mogi.png">
 
 !["研究者としてのミッション"](/assets/img/Mission_Mogi.png)
 
