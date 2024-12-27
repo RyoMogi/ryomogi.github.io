@@ -24,7 +24,7 @@ nav: true
 
 <img width = "250" alt = "研究者としてのミッション" src = "file:///assets/img/Mission_Mogi.png">
 
-!["研究者としてのミッション"](assets/img/Mission_Mogi.png)
+!["研究者としてのミッション"](/assets/img/Mission_Mogi.png)
 
 #### SNS
 
