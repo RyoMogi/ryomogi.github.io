@@ -24,6 +24,8 @@ nav: true
 
 <img width = "250" alt = "研究者としてのミッション" src = "file:///assets/img/Mission_Mogi.png">
 
+!["研究者としてのミッション"](assets/img/Mission_Mogi.png)
+
 #### SNS
 
 - [note](https://note.com/rmogimogi) | 世界の少子化の現状をわかりやすく解説
