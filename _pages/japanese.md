@@ -7,6 +7,8 @@ permalink: /japanese/
 nav: true
 ---
 
+<img width = "250" alt = "プロフィール画像" src = "/assets/img/prof_pic_Mogi.png">
+
 人口学者（人口学博士）。1989年生まれ。
 
 南デンマーク大学 助教  
@@ -100,37 +102,94 @@ nav: true
 
 #### 学歴
 
-| :-- | :-- |
-| 2020年 | ： バルセロナ自治大学 人口学センター 博士課程修了（人口学Ph.D.取得、Excelente Cum Laude）| 
-| 2017年 | ： マックスプランク人口学研究所、ローマ サピエンサ大学 <br> ヨーロッパリサーチプログラム 人口学修了（European Research Certificate of Demography）| 
-| 2016年 | ： 明治大学大学院 政治経済学研究科 経済学専攻 博士前期課程修了（GPA: 4.0）| 
-| 2013年 | ： 明治大学 政治経済学部 経済学科 卒業| 
-| 2008年 | ： 埼玉県立浦和高等学校 卒業| 
+<table class="table table-sm table-borderless">
+  <tr>
+    <th style="width: 15%;" scope="row">2020年</th>
+    <td>バルセロナ自治大学 人口学センター 博士課程修了（人口学Ph.D.取得、Excelente Cum Laude）</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2017年</th>
+    <td>マックスプランク人口学研究所、ローマ サピエンサ大学 ヨーロッパリサーチプログラム 人口学修了（European Research Certificate of Demography）</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2016年</th>
+    <td>明治大学大学院 政治経済学研究科 経済学専攻 博士前期課程修了（GPA: 4.0）</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2013年</th>
+    <td>明治大学 政治経済学部 経済学科 卒業</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2008年</th>
+    <td>埼玉県立浦和高等学校 卒業</td>
+  </tr>
+</table>
 
 <br />
 
 #### 職歴
 
-| :-- | :-- |
-| 2024年〜現在 | ： ポンペウ・ファブラ大学 政治・社会科学学部 研究員| 
-| 2023年〜現在 | ： 南デンマーク大学 人口学センター 助教（Assistant Professor）| 
-| 2022年〜2023年 | ： 南デンマーク大学 人口学センター 研究員 | 
-| 2021年〜2022年 | ： オックスフォード大学 社会学部 研究員（ナッフィールドカレッジフェロー、レバーヒューム人口問題研究所フェロー）|
-| 2019年〜現在 | ： 国立社会保障・人口問題研究所 客員研究員| 
-| 2020年〜2021年 | ： バルセロナ自治大学 人口学センター 研究員| 
-| 2019年〜2021年 | ： オックスフォード大学 Oxford Poverty and Human Development Initiative コンサルタント| 
-| 2019年 | ： オーストラリア国立大学 人口学部 客員研究員|
-| 2013年〜2014年 | ： 国立社会保障・人口問題研究所 リサーチアシスタント| 
+<table class="table table-sm table-borderless">
+  <tr>
+    <th style="width: 15%;" scope="row">2024年〜現在</th>
+    <td>ポンペウ・ファブラ大学 政治・社会科学学部 研究員</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2023年〜現在</th>
+    <td>南デンマーク大学 人口学センター 助教（Assistant Professor）</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2022年〜2023年</th>
+    <td>南デンマーク大学 人口学センター 研究員</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2021年〜2022年</th>
+    <td>オックスフォード大学 社会学部 研究員（ナッフィールドカレッジフェロー、レバーヒューム人口問題研究所フェロー）</td>
+  </tr>
+    <tr>
+    <th style="width: 15%;" scope="row">2020年〜2021年</th>
+    <td>バルセロナ自治大学 人口学センター 研究員</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2019年〜現在</th>
+    <td>国立社会保障・人口問題研究所 客員研究員</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2019年〜2021年</th>
+    <td>オックスフォード大学 Oxford Poverty and Human Development Initiative コンサルタント</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2019年</th>
+    <td>オーストラリア国立大学 人口学部 客員研究員</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2013年〜2014年</th>
+    <td>国立社会保障・人口問題研究所 リサーチアシスタント</td>
+  </tr>
+</table>
 
 <br />
 
 #### 受賞
 
-| :-- | :-- |
-| 2024年 | ： 日本人口学会 優秀論文賞（福田節也・余田翔平との共著）| 
-| 2024年 | ： アメリカ人口学会 ポスター賞（南拓磨との共著）| 
-| 2023年 | ： アメリカ人口学会 ポスター賞（Chia Liuとの共著）| 
-| 2021年 | ： バルセロナ自治大学 博士論文特別賞| 
+<table class="table table-sm table-borderless">
+  <tr>
+    <th style="width: 15%;" scope="row">2024年</th>
+    <td>日本人口学会 優秀論文賞（福田節也・余田翔平との共著）</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2024年</th>
+    <td>アメリカ人口学会 ポスター賞（南拓磨との共著）</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2023年</th>
+    <td>アメリカ人口学会 ポスター賞（Chia Liuとの共著）</td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2021年</th>
+    <td>バルセロナ自治大学 博士論文特別賞</td>
+  </tr>
+</table>
 
 <br />
 
