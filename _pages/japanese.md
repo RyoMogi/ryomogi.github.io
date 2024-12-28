@@ -1,15 +1,11 @@
 ---
-layout: about
+layout: page
 title: 茂木良平
 permalink: /japanese/
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+nav: true
 ---
-
-### **茂木良平**
 
 人口学者（人口学博士）。1989年生まれ。
 
