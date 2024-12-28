@@ -14,6 +14,8 @@ social: true  # includes social icons at the bottom of the page
 nav: true
 ---
 
+##### **茂木良平**
+
 人口学者（人口学博士）。1989年生まれ。
 
 南デンマーク大学 助教  
