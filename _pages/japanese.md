@@ -23,6 +23,8 @@ nav: true
 
 <br />
 
+#### 研究者としての4つのミッション
+
 <img width = "750" alt = "研究者としてのミッション" src = "/assets/img/Mission_Mogi.png">
 
 #### SNS
@@ -137,6 +139,10 @@ nav: true
     <td>南デンマーク大学 人口学センター 助教（Assistant Professor）</td>
   </tr>
   <tr>
+    <th style="width: 15%;" scope="row">2019年〜現在</th>
+    <td>国立社会保障・人口問題研究所 客員研究員</td>
+  </tr>
+  <tr>
     <th style="width: 15%;" scope="row">2022年〜2023年</th>
     <td>南デンマーク大学 人口学センター 研究員</td>
   </tr>
@@ -147,10 +153,6 @@ nav: true
     <tr>
     <th style="width: 15%;" scope="row">2020年〜2021年</th>
     <td>バルセロナ自治大学 人口学センター 研究員</td>
-  </tr>
-  <tr>
-    <th style="width: 15%;" scope="row">2019年〜現在</th>
-    <td>国立社会保障・人口問題研究所 客員研究員</td>
   </tr>
   <tr>
     <th style="width: 15%;" scope="row">2019年〜2021年</th>
