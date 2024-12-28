@@ -6,14 +6,14 @@ permalink: /japanese/
 
 profile:
   align: right
-  image: /assets/img/prof_pic.jpg
+  image: prof_pic.jpg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-##### **茂木良平**
+### **茂木良平**
 
 人口学者（人口学博士）。1989年生まれ。
 
