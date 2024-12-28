@@ -7,7 +7,7 @@ permalink: /japanese/
 nav: true
 ---
 
-<img width = "250" alt = "プロフィール画像" src = "/assets/img/prof_pic_Mogi.png">
+<img width = "250" alt = "プロフィール画像" src = "/assets/img/prof_pic_Mogi.jpg">
 
 人口学者（人口学博士）。1989年生まれ。
 
