@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<img width = "250" alt = "profile" src = "/assets/img/prof_pic_Mogi.jpg">
+<img width = "250" alt = "profile" src = "/assets/img/prof_pic.jpg">
 
 Ryohei Mogi is a Juan de la Cierva Fellow at the Department of Political and Social Sciences, Pompeu Fabra University (Barcelona, Spain) and an Assistant Professor at the Interdisciplinary Centre on Population Dynamics (CPop), University of Southern Denmark.
 
