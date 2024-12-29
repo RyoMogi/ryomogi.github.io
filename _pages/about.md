@@ -17,8 +17,6 @@ social: true  # includes social icons at the bottom of the page
 
 Ryohei Mogi is a Juan de la Cierva Fellow at the Department of Political and Social Sciences, Pompeu Fabra University (Barcelona, Spain) and an Assistant Professor at the Interdisciplinary Centre on Population Dynamics (CPop), University of Southern Denmark.
 
-He is a demographer and seeks to understand the fertility decline and family changes by developing alternative measures and analysing the key factors of such decline and changes and its consequences. He particularly focuses on childlessness, mate search, and partnership formation.
-
 After earning a Ph.D. in Demography from the Center for Demographic Studies at the Autonomous University of Barcelona in 2020, I worked as a postdoctoral researcher at the Department of Sociology, University of Oxford. My expertise lies in analysing low fertility issues in developed countries using data and statistics. My research focuses on developing methods to better understand fertility decline, studying childlessness, and exploring romantic behaviours. I have been affiliated with research institutions in six countries—Japan, Germany, Italy, Spain, Australia and Denmark—and specialise in cross-national data analysis. Additionally, I collaborate with local governments and corporations to promote evidence-based policy making (EBPM) on demographic issues. My work has been published in leading international journals, and I have presented extensively at global conferences.
 
 For inquiries about low fertility issues, changes in family life behaviours, or any other issues on demographic trends, collaboration opportunities, or interview requests, please feel free to contact me at `ryohei.mogi@upf.edu`.
