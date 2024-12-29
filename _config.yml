@@ -229,8 +229,10 @@ scholar:
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
 
+# MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
+#   convert -version
 imagemagick:
-  enabled: true
+  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800
@@ -242,8 +244,9 @@ imagemagick:
     - ".jpeg"
     - ".png"
     - ".tiff"
+    - ".gif"
   output_formats:
-    webp: "-quality 75%"
+    webp: "-quality 85"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
