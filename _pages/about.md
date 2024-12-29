@@ -4,9 +4,9 @@ title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: right
-  image: prof.jpg
+#profile:
+#  align: right
+#  image: 2021-10-Ryohei+Mogi-David+Fisher-03.jpg
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
