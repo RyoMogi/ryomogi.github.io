@@ -9,7 +9,7 @@ nav: true
 
 <img width = "250" alt = "プロフィール画像" src = "/assets/img/prof_pic.jpg">
 
-人口学者（人口学博士）。
+人口学者（人口学博士）
 
 南デンマーク大学 助教  
 ポンペウ・ファブラ大学 研究員  
@@ -43,6 +43,10 @@ nav: true
 
 <table class="table table-sm table-borderless">
   <tr>
+    <th style="width: 15%;" scope="row">2024年〜現在</th>
+    <td>佐賀県佐賀市希望のライフコースに関する調査（調査設計、分析、報告書作成）</td>
+  </tr>
+  <tr>
     <th style="width: 15%;" scope="row">2023年〜現在</th>
     <td>福井県子育て意識調査 アドバイザー（調査設計、分析、報告書作成）</td>
   </tr>
@@ -50,10 +54,7 @@ nav: true
     <th style="width: 15%;" scope="row">2023年〜現在</th>
     <td>サイバーエージェントEBPMデータベース アドバイザー</td>
   </tr>
-  <tr>
-    <th style="width: 15%;" scope="row">2024年〜現在</th>
-    <td>佐賀県佐賀市希望のライフコースに関する調査（調査設計、分析、報告書作成）</td>
-  </tr>
+  
 </table>
 
 有識者ヒアリング ： 東京都、東京都港区、神奈川県横浜市、石川県加賀市
@@ -195,4 +196,4 @@ nav: true
 
 #### 学術論文、学会発表
 
-当サイトのCV、もしくは[Google Scholar](https://scholar.google.com/citations?user=gfakESwAAAAJ&hl=en)をご覧ください
+当サイトのCV、もしくは[Google Scholar](https://scholar.google.com/citations?user=gfakESwAAAAJ&hl=en)をご覧ください。
