@@ -44,10 +44,6 @@ nav: true
 <table class="table table-sm table-borderless">
   <tr>
     <th style="width: 15%;" scope="row">2024年〜現在</th>
-    <td>東京都 東京都における少子化要因の地域差分析業務委託（有識者ヒアリング協力）</td>
-  </tr>
-  <tr>
-    <th style="width: 15%;" scope="row">2024年〜現在</th>
     <td>佐賀県 佐賀市 希望のライフコースに関する調査（調査設計、分析、報告書作成）</td>
   </tr>
   <tr>
@@ -58,7 +54,10 @@ nav: true
     <th style="width: 15%;" scope="row">2023年〜現在</th>
     <td>サイバーエージェント EBPMデータベース アドバイザー</td>
   </tr>
-  
+  <tr>
+    <th style="width: 15%;" scope="row">2024年</th>
+    <td>東京都 東京都における少子化要因の地域差分析業務委託（有識者ヒアリング協力）</td>
+  </tr>
 </table>
 
 有識者ヒアリング ： 東京都港区、神奈川県横浜市、石川県加賀市
@@ -66,6 +65,7 @@ nav: true
 <br />
 
 #### メディア掲載
+- [少子化を知るための人口統計の読み方　第３回　続・合計特殊出生率の落とし穴](https://www.nikkei.com/compass/content/GL1KDB20241216G050/preview). 日経グローカル. 2024年12月16日.
 - [少子化を知るための人口統計の読み方　第２回　合計特殊出生率の落とし穴](https://www.nikkei.com/compass/content/GL1KDB20241118G058/preview). 日経グローカル. 2024年11月18日.
 - [少子化を知るための人口統計の読み方　第１回　統計による「人口」の違いに注意を](https://www.nikkei.com/compass/content/GL1KDB20241021G052/preview). 日経グローカル. 2024年10月21日.
 - [欧州少子化事情　第６回（最終回）　英国　多子世帯多いが無子世帯も増加　保育料の高さに悪戦苦闘](https://www.nikkei.com/compass/content/GL1KDB20240916G048/preview). 日経グローカル. 2024年9月16日.
