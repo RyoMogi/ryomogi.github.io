@@ -44,7 +44,7 @@ nav: true
 <table class="table table-sm table-borderless">
   <tr>
     <th style="width: 15%;" scope="row">2024年〜現在</th>
-    <td>佐賀県 佐賀市 希望のライフコースに関する調査（調査設計、分析、報告書作成）</td>
+    <td>佐賀県 佐賀市 「人口政策アドバイザー」</td>
   </tr>
   <tr>
     <th style="width: 15%;" scope="row">2023年〜現在</th>
