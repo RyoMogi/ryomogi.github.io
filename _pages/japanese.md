@@ -65,6 +65,8 @@ nav: true
 <br />
 
 #### メディア掲載
+- [少子化を知るための人口統計の読み方　第５回　無子人口の増加は何を意味するのか](https://www.nikkei.com/compass/content/GL1KDB20250217G048/preview). 日経グローカル. 2025年2月17日.
+- [少子化を知るための人口統計の読み方　第４回　出生順位別の合計特殊出生率](https://www.nikkei.com/compass/content/GL1KDB20250120G054/preview). 日経グローカル. 2025年1月20日.
 - [少子化を知るための人口統計の読み方　第３回　続・合計特殊出生率の落とし穴](https://www.nikkei.com/compass/content/GL1KDB20241216G050/preview). 日経グローカル. 2024年12月16日.
 - [少子化を知るための人口統計の読み方　第２回　合計特殊出生率の落とし穴](https://www.nikkei.com/compass/content/GL1KDB20241118G058/preview). 日経グローカル. 2024年11月18日.
 - [少子化を知るための人口統計の読み方　第１回　統計による「人口」の違いに注意を](https://www.nikkei.com/compass/content/GL1KDB20241021G052/preview). 日経グローカル. 2024年10月21日.
