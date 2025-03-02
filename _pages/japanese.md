@@ -182,11 +182,11 @@ nav: true
 <table class="table table-sm table-borderless">
   <tr>
     <th style="width: 15%;" scope="row">2024年</th>
-    <td>日本人口学会 優秀論文賞（福田節也・余田翔平との共著）</td>
+    <td>日本人口学会 優秀論文賞（福田節也氏・余田翔平氏との共著）</td>
   </tr>
   <tr>
     <th style="width: 15%;" scope="row">2024年</th>
-    <td>アメリカ人口学会 ポスター賞（南拓磨との共著）</td>
+    <td>アメリカ人口学会 ポスター賞（南拓磨氏との共著）</td>
   </tr>
   <tr>
     <th style="width: 15%;" scope="row">2023年</th>
