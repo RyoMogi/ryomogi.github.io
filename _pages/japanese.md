@@ -65,6 +65,7 @@ nav: true
 <br />
 
 #### メディア掲載
+- [少子化を知るための人口統計の読み方　第６回（最終回）　欧米より手厚い日本の育休、取得率向上に課題](https://www.nikkei.com/compass/content/GL1KDB20250317G044/preview). 日経グローカル. 2025年3月17日.
 - [少子化を知るための人口統計の読み方　第５回　無子人口の増加は何を意味するのか](https://www.nikkei.com/compass/content/GL1KDB20250217G048/preview). 日経グローカル. 2025年2月17日.
 - [少子化を知るための人口統計の読み方　第４回　出生順位別の合計特殊出生率](https://www.nikkei.com/compass/content/GL1KDB20250120G054/preview). 日経グローカル. 2025年1月20日.
 - [少子化を知るための人口統計の読み方　第３回　続・合計特殊出生率の落とし穴](https://www.nikkei.com/compass/content/GL1KDB20241216G050/preview). 日経グローカル. 2024年12月16日.
