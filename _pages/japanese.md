@@ -64,6 +64,7 @@ nav: true
 
 #### メディア掲載
 - [〈和歌山県の人口分がまるまる…〉日本人の人口減少幅が過去最大。移民受け入れ待ったなしかそれとも… ほかの先進国よりも深刻な背景](https://shueisha.online/articles/-/253691). 集英社オンライン. 2025年4月17日.
+- [県の子育て支援　満足度４６％に減　２４年度　県民意識調査](https://www.chunichi.co.jp/article/1051880?rct=f_news). 中日新聞. 2025年4月12日.
 - [少子化を知るための人口統計の読み方　第６回（最終回）　欧米より手厚い日本の育休、取得率向上に課題](https://www.nikkei.com/compass/content/GL1KDB20250317G044/preview). 日経グローカル. 2025年3月17日.
 - [少子化を知るための人口統計の読み方　第５回　無子人口の増加は何を意味するのか](https://www.nikkei.com/compass/content/GL1KDB20250217G048/preview). 日経グローカル. 2025年2月17日.
 - [少子化を知るための人口統計の読み方　第４回　出生順位別の合計特殊出生率](https://www.nikkei.com/compass/content/GL1KDB20250120G054/preview). 日経グローカル. 2025年1月20日.
