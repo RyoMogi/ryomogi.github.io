@@ -14,12 +14,8 @@ Please have a look at [CV](https://drive.google.com/file/d/1_LUgwOaBgRjdoYd_JnKD
 
 <table class="table table-sm table-borderless">
   <tr>
-    <th style="width: 15%;" scope="row">2024--</th>
-    <td>Juan de la Cierva Fellow at the Department of Political and Social Sciences, Pompeu Fabra University (Barcelona, Spain) </td>
-  </tr>
-  <tr>
-    <th style="width: 15%;" scope="row">2023--</th>
-    <td>Assistant Professor at the Interdisciplinary Centre on Population Dynamics, University of Southern Denmark (Odense, Denmark)</td>
+    <th style="width: 15%;" scope="row">2025--</th>
+    <td>Beatriu de Pinós Fellow at the Department of Political and Social Sciences, Pompeu Fabra University (Barcelona, Spain) </td>
   </tr>
 </table>
 
@@ -28,6 +24,14 @@ Please have a look at [CV](https://drive.google.com/file/d/1_LUgwOaBgRjdoYd_JnKD
 ##### **Previous position**
 
 <table class="table table-sm table-borderless">
+  <tr>
+    <th style="width: 15%;" scope="row">2024--2025</th>
+    <td>Juan de la Cierva Fellow at the Department of Political and Social Sciences, Pompeu Fabra University (Barcelona, Spain) </td>
+  </tr>
+  <tr>
+    <th style="width: 15%;" scope="row">2023--2025</th>
+    <td>Assistant Professor at the Interdisciplinary Centre on Population Dynamics, University of Southern Denmark (Odense, Denmark)</td>
+  </tr>
   <tr>
     <th style="width: 15%;" scope="row">2022--2023</th>
     <td>Postdoctoral researcher at the Interdisciplinary Centre on Population Dynamics, University of Southern Denmark (Odense, Denmark)</td>

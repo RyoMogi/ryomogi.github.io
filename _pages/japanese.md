@@ -11,7 +11,6 @@ nav: true
 
 人口学者（人口学博士）
 
-南デンマーク大学 人口学センター 助教  
 ポンペウ・ファブラ大学 政治・社会科学学部 研究員  
 国立社会保障・人口問題研究所 客員研究員 
 
@@ -154,16 +153,16 @@ nav: true
     <td>ポンペウ・ファブラ大学 政治・社会科学学部 研究員（ベアトリウ・デ・ピノスフェロー）</td>
   </tr>
   <tr>
+    <th style="width: 15%;" scope="row">2019年〜現在</th>
+    <td>国立社会保障・人口問題研究所 客員研究員</td>
+  </tr>
+  <tr>
     <th style="width: 15%;" scope="row">2024年〜2025年</th>
     <td>ポンペウ・ファブラ大学 政治・社会科学学部 研究員（フアン・デ・ラ・シエルバフェロー）</td>
   </tr>
   <tr>
-    <th style="width: 15%;" scope="row">2023年〜現在</th>
+    <th style="width: 15%;" scope="row">2023年〜2025年</th>
     <td>南デンマーク大学 人口学センター 助教（Assistant Professor）</td>
-  </tr>
-  <tr>
-    <th style="width: 15%;" scope="row">2019年〜現在</th>
-    <td>国立社会保障・人口問題研究所 客員研究員</td>
   </tr>
   <tr>
     <th style="width: 15%;" scope="row">2022年〜2023年</th>
@@ -196,6 +195,10 @@ nav: true
 #### 受賞
 
 <table class="table table-sm table-borderless">
+  <tr>
+    <th style="width: 15%;" scope="row">2025年</th>
+    <td>エミール・ユリウス・ガンベル賞（Bruno Arpino氏との共著）</td>
+  </tr>
   <tr>
     <th style="width: 15%;" scope="row">2024年</th>
     <td>日本人口学会 優秀論文賞（福田節也氏・余田翔平氏との共著）</td>
