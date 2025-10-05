@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 茂木良平
+title: 
 permalink: /japanese/
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
