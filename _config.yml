@@ -29,6 +29,17 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 rss_icon: false
 
 # -----------------------------------------------------------------------------
+# Navbar (custom)
+# -----------------------------------------------------------------------------
+navbar_links:
+  - title: "Research"
+    url: "/"
+  - title: "Services"
+    url: "/ja/services/"
+  - title: "Media (EN)"
+    url: "/en/media-inquiries/"
+
+# -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 

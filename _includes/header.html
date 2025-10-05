@@ -23,6 +23,21 @@
           </button>
 
           <div class="collapse navbar-collapse text-right" id="navbarNav">
+            
+            <li class="nav-item">
+              {% assign url = page.url | default: '' %}
+              {% if url contains '/en/' %}
+              <a class="nav-link" href="{{ '/ja/' | relative_url }}">日本語</a>
+              <a class="nav-link font-weight-bold" href="{{ '/en/' | relative_url }}">English</a>
+              {% elsif url contains '/ja/' %}
+              <a class="nav-link font-weight-bold" href="{{ '/ja/' | relative_url }}">日本語</a>
+              <a class="nav-link" href="{{ '/en/' | relative_url }}">English</a>
+              {% else %}
+              <a class="nav-link" href="{{ '/ja/' | relative_url }}">日本語</a>
+              <a class="nav-link" href="{{ '/en/' | relative_url }}">English</a>
+              {% endif %}
+            </li>
+            
             <ul class="navbar-nav ml-auto flex-nowrap">
 
               <!-- About -->
