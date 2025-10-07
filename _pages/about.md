@@ -6,24 +6,41 @@ permalink: /
 
 #profile:
 #  align: right
-#  image: 2021-10-Ryohei+Mogi-David+Fisher-03.jpg
+#  image: prof_pic.jpg
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<img width = "250" alt = "profile" src = "/assets/img/prof_pic.jpg">
+Ryohei Mogi is a demographer who **bridges scientific research with real-world action**.  
+My mission is to turn evidence into action to tackle low fertility, through research and collaboration with policymakers, the media, and both public and private sectors.**
 
-Ryohei Mogi is a demographer specialising in low fertility, family change, and their policy implications. Currently, I hold a Beatriu de Pinós Fellowship at Pompeu Fabra University (Barcelona, Spain).
+---
 
-I help policymakers, journalists, and international organisations understand fertility decline and family change through evidence-based demographic research.
+#### Background
+I received my Ph.D. in Demography from the Centre for Demographic Studies, Universitat Autònoma de Barcelona.  
+I then worked as a Research Fellow at the Department of Sociology, University of Oxford, and as an Assistant Professor at the Interdisciplinary Centre on Population Dynamics, University of Southern Denmark.  
+I am currently based at Pompeu Fabra University in Barcelona.  
 
-My research examines the drivers of fertility decline and the consequences of demographic change for societies. I have published in leading international journals (including Demography and Social Forces) and regularly present at global conferences.
+My expertise lies in **comparative demographic research**, analysing fertility and family change.
 
-I am open to collaborations with international organisations, policymakers, and journalists seeking clear, data-driven insights on fertility, family change, and population trends.
+---
 
-For inquiries about low fertility issues, changes in family life behaviours, or any other issues on demographic trends, collaboration opportunities, or interview requests, please feel free to contact me at `ryohei.mogi@upf.edu`.
+#### How I work with partners
+Alongside academic research, I actively engage with **policymakers, media, and the public and private sectors**.  
+Here are the main ways I collaborate:
+
+- **Advisory & consulting**: Supporting policymakers and organisations with evidence-based guidance. This includes survey design, analysis of fertility and marriage trends, and the creation of data dashboards
+- **Public speaking & lectures**: Keynotes, seminars, and talks on fertility and population issues 
+- **Writing & media**: Articles, commentary, and fact-checking for newspapers, magazines, and international media outlets  
+
+<img width = "750" alt = "メディア出演一例" src = "/assets/img/media_logos_jpn.png">
+
+#### Contact
+📩 ryohei.mogi[at]upf.edu  
+
+Please feel free to get in touch for speaking engagements, advisory work, or media commentary.
 
 
 #### **My 4 missions as a demographer**
