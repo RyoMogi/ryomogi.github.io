@@ -19,7 +19,7 @@ My mission is to turn evidence into action to tackle low fertility, through rese
 
 <br />
 
-#### Background
+#### **Background**
 I received my Ph.D. in Demography from the Centre for Demographic Studies, Universitat Autònoma de Barcelona.  
 I then worked as a Research Fellow at the Department of Sociology, University of Oxford, and as an Assistant Professor at the Interdisciplinary Centre on Population Dynamics, University of Southern Denmark.  
 I am currently based at Pompeu Fabra University in Barcelona.  
@@ -28,7 +28,7 @@ My expertise lies in **comparative demographic research**, analysing fertility a
 
 <br />
 
-#### How I work with partners
+#### **How I work with partners**
 Alongside academic research, I actively engage with **policymakers, media, and the public and private sectors**.  
 Here are the main ways I collaborate:
 
@@ -48,7 +48,9 @@ Here are the main ways I collaborate:
 - [Fertility is now a global challenge - report exposes one important truth](https://nyheder.tv2.dk/samfund/2023-04-04-fertilitet-er-nu-en-global-udfordring-rapport-blotlaegger-en-vigtig-sandhed). Nyheder TV2. 04/04/2023. (In Danish)
 - [Two numbers say a lot about how we have children today: Fertility expert calls it both a “triumph and an accident”](https://www.berlingske.dk/samfund/to-tal-siger-en-hel-del-om-hvordan-vi-i-dag-faar-boern-fertilitetsekspert). Berlingske. 03/04/2023. (In Danish)
 
-#### Contact
+<br />
+
+#### **Contact**
 📩 ryohei.mogi[at]upf.edu  
 
 Please feel free to get in touch for speaking engagements, advisory work, or media commentary.
@@ -62,7 +64,8 @@ Please feel free to get in touch for speaking engagements, advisory work, or med
 <br />
 
 #### **Follow me**
-- [Medium](https://medium.com/@rmogi): I write articles on low fertility for lay audience.
+Blog posts on low fertility and demographic change, written for a broad audience and for policy insights
+- [Medium](https://medium.com/@rmogi)
 - [LinkedIn](https://www.linkedin.com/in/ryohei-mogi-45bb73174/)
 - [X](https://x.com/rmogimogi)
 - [bluesky](https://bsky.app/profile/ryomogi.bsky.social)

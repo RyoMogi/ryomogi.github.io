@@ -4,11 +4,17 @@ title:
 permalink: /japanese/
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+
 nav: true
 ---
 
 <img width = "250" alt = "プロフィール画像" src = "/assets/img/prof_pic.jpg">
 
+**茂木良平** 
 人口学者（人口学博士）
 
 ポンペウ・ファブラ大学 政治・社会科学学部 研究員  
@@ -80,6 +86,7 @@ nav: true
 
 - [Todo por hacer](https://www.rtve.es/play/audios/todo-por-hacer/ia-generacion-voces-30-09-25/16751021/). Radio 5, rtve. 2025年9月30日.（スペイン語）
 - [What superstition tells us about humanity](https://www.ft.com/content/ffa159c2-33f0-49f8-ad69-e78893d7f377). Financial Times. 2025年9月25日.（英語）
+- [日本の若者7割に交際相手がいない 少子化の真の原因とは](https://forbesjapan.com/articles/detail/81619). Forbes JAPAN. 2025年9月3日.
 - [出生増、家事育児分担が鍵　県の子育て意識調査アドバイザー　人口学者・茂木良平さん　人生設計実現へ支援を](https://www.fukuishimbun.co.jp/articles/-/2326894). 福井新聞. 2025年6月5日.
 - [少子化対策、新規より既存策の広報と評価を](https://www.nikkei.com/article/DGXZQOCD087MD0Y5A400C2000000/). 日本経済新聞. 2025年4月24日.
 - [〈和歌山県の人口分がまるまる…〉日本人の人口減少幅が過去最大。移民受け入れ待ったなしかそれとも… ほかの先進国よりも深刻な背景](https://shueisha.online/articles/-/253691). 集英社オンライン. 2025年4月17日.
