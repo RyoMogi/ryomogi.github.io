@@ -39,7 +39,12 @@ nav: true
 - **執筆・寄稿**  
   新聞・雑誌・ウェブ記事や政策レポートへの寄稿が可能です。  
 
-📩 ご相談はお気軽に → **ryohei.mogi[at]upf.edu**
+<div class="cta-card">
+  <div class="cta-text">
+    <strong>ご相談はお気軽に</strong>
+  </div>
+  <a class="btn-cta" href="mailto:ryohei.mogi@upf.edu">📩 ryohei.mogi[at]upf.edu</a>
+</div>
 
 <br />
 
