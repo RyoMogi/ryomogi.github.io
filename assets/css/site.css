@@ -1,39 +1,66 @@
-.cta-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  gap: 14px;
-
-  padding: 22px;
-  border: 4px solid #1e3a8a; 
-  border-radius: 16px;
-  background: #f0f7ff; /* 淡い青背景 */
-  box-shadow: 0 8px 20px rgba(37, 99, 235, 0.15);
-  margin: 32px 0;
+/* ===== Brand palette ===== */
+:root{
+  --ink:#111827;          /* 本文・見出し用（黒に近い） */
+  --deep-blue:#1E3A8A;    /* ディープブルー：見出し強調・枠線など */
+  --teal:#0D9488;         /* ティール：リンクの既定色 */
+  --teal-hover:#0F766E;   /* ティール（ホバー） */
+  --cta:#2563EB;          /* CTA専用色（落ち着いたブルー） */
+  --cta-shadow: rgba(37,99,235,.30);
+  --muted:#64748B;        /* 補助テキスト */
+  --card:#F8FAFC;         /* カード背景 */
+  --line:#E2E8F0;
 }
 
-.cta-text {
-  font-size: 1.1rem;
-  line-height: 1.5;
-  color: #000000;
+/* ===== Base typography ===== */
+body{ color:var(--ink); }
+h1,h2,h3,h4{ color:var(--ink); }
+
+/* ===== Links (サイト全体で統一) ===== */
+a{
+  color:var(--teal);
+  text-decoration:none;
+  font-weight:500;
+}
+a:hover{
+  color:var(--teal-hover);
+  text-decoration:underline;
+}
+a:visited{ color:var(--teal); } /* Wordっぽい紫Visitedを防ぐ */
+
+/* ===== Section subtitles / 補助テキスト ===== */
+.meta{ color:var(--muted); }
+
+/* ===== CTA card（About/日本語ページ用）===== */
+.cta-card{
+  display:flex; flex-direction:column;
+  align-items:center; justify-content:center; text-align:center; gap:14px;
+  padding:22px; margin:32px 0;
+  border:4px solid var(--deep-blue);     /* ディープブルー枠線（太め） */
+  border-radius:16px;
+  background:#EFF6FF;                    /* やや淡い青背景 */
+  box-shadow:0 8px 20px rgba(2,6,23,.06);
+}
+.cta-text{
+  font-size:1.1rem; line-height:1.5;
+  color:var(--deep-blue);                /* 枠線と合わせて統一 */
 }
 
-.btn-cta {
-  display: inline-block;
-  padding: 14px 24px;
-  border-radius: 999px;
-  background: #1e3a8a;
-  color: #fff !important;   /* 常に白字 */
-  font-weight: 700;
-  text-decoration: none;
-  transition: all 0.2s ease;
-  box-shadow: 0 6px 18px rgba(37, 99, 235, 0.3);
+/* ===== CTA button（メール用：別色）===== */
+.btn-cta{
+  display:inline-block; padding:14px 24px; border-radius:999px;
+  background:var(--cta); color:#fff !important;   /* 常に白字 */
+  font-weight:700; text-decoration:none; box-shadow:0 6px 18px var(--cta-shadow);
+  transition:transform .2s ease, filter .2s ease;
+}
+.btn-cta:hover{
+  filter:brightness(1.08); transform:translateY(-2px);
+  color:#fff !important;                  /* hover時も白字維持（上書き） */
 }
 
-.btn-cta:hover {
-  filter: brightness(1.08);
-  transform: translateY(-2px);
-  color: #fff !important;   /* hover時も白字を維持 */
-}
+/* ===== Spaced list（ご依頼いただけること）===== */
+.spaced-list li, .spaced-list li p{ margin-bottom:12px !important; }
+.spaced-list .meta{ color:var(--muted); font-size:.95rem; }
+
+/* ===== Optional: ボーダーや見出しの微アクセント ===== */
+hr{ border-color:var(--line); }
+.mark-border{ border-left:4px solid var(--deep-blue); padding-left:12px; }
