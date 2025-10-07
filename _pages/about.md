@@ -51,9 +51,13 @@ Here are the main ways I collaborate:
 <br />
 
 #### **Contact**
-📩 ryohei.mogi[at]upf.edu  
 
-Please feel free to get in touch for speaking engagements, advisory work, or media commentary.
+<div class="cta-card">
+  <div class="cta-text">
+    Please feel free to get in touch for any inquiries.
+  </div>
+  <a class="btn-cta" href="mailto:ryohei.mogi@upf.edu">📩 ryohei.mogi[at]upf.edu</a>
+</div>
 
 <br />
 
