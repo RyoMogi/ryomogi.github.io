@@ -35,7 +35,15 @@ Here are the main ways I collaborate:
 - **Public speaking & lectures**: Keynotes, seminars, and talks on fertility and population issues 
 - **Writing & media**: Articles, commentary, and fact-checking for newspapers, magazines, and international media outlets  
 
+**Selected Media Coverage** 
 <img width = "750" alt = "メディア出演一例" src = "/assets/img/media_logos_jpn.png">
+
+- [Todo por hacer](https://www.rtve.es/play/audios/todo-por-hacer/ia-generacion-voces-30-09-25/16751021/). Radio 5, rtve. 30/09/2025. (In Spanish)
+- [What superstition tells us about humanity](https://www.ft.com/content/ffa159c2-33f0-49f8-ad69-e78893d7f377). Financial Times. 25/09/2025. (In English)
+- [New mothers are getting older - but in East Jutland there is still a preponderance of teenage mothers](https://www.tv2ostjylland.dk/oestjylland/nye-moedre-bliver-aeldre-men-i-oestjylland-er-der-stadig-overvaegt-af-teenage-moedre). TV2 Østjylland. 05/04/2023. (In Danish)
+- [Over-45s in Denmark giving birth more than teens](https://cphpost.dk/2023-04-04/news/over-45s-in-denmark-giving-birth-more-than-teens/). The Copenhagen Post. 04/04/2023. (In English)
+- [Fertility is now a global challenge - report exposes one important truth](https://nyheder.tv2.dk/samfund/2023-04-04-fertilitet-er-nu-en-global-udfordring-rapport-blotlaegger-en-vigtig-sandhed). Nyheder TV2. 04/04/2023. (In Danish)
+- [Two numbers say a lot about how we have children today: Fertility expert calls it both a “triumph and an accident”](https://www.berlingske.dk/samfund/to-tal-siger-en-hel-del-om-hvordan-vi-i-dag-faar-boern-fertilitetsekspert). Berlingske. 03/04/2023. (In Danish)
 
 #### Contact
 📩 ryohei.mogi[at]upf.edu  

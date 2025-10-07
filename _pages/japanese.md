@@ -78,8 +78,8 @@ nav: true
 #### メディア掲載
 <img width = "750" alt = "メディア出演一例" src = "/assets/img/media_logos_jpn.png">
 
-- [Todo por hacer](https://www.rtve.es/play/audios/todo-por-hacer/ia-generacion-voces-30-09-25/16751021/). Radio 5, rtve. 2025年9月30日.
-- [What superstition tells us about humanity](https://www.ft.com/content/ffa159c2-33f0-49f8-ad69-e78893d7f377). Financial Times. 2025年9月25日.
+- [Todo por hacer](https://www.rtve.es/play/audios/todo-por-hacer/ia-generacion-voces-30-09-25/16751021/). Radio 5, rtve. 2025年9月30日.（スペイン語）
+- [What superstition tells us about humanity](https://www.ft.com/content/ffa159c2-33f0-49f8-ad69-e78893d7f377). Financial Times. 2025年9月25日.（英語）
 - [出生増、家事育児分担が鍵　県の子育て意識調査アドバイザー　人口学者・茂木良平さん　人生設計実現へ支援を](https://www.fukuishimbun.co.jp/articles/-/2326894). 福井新聞. 2025年6月5日.
 - [少子化対策、新規より既存策の広報と評価を](https://www.nikkei.com/article/DGXZQOCD087MD0Y5A400C2000000/). 日本経済新聞. 2025年4月24日.
 - [〈和歌山県の人口分がまるまる…〉日本人の人口減少幅が過去最大。移民受け入れ待ったなしかそれとも… ほかの先進国よりも深刻な背景](https://shueisha.online/articles/-/253691). 集英社オンライン. 2025年4月17日.
@@ -119,6 +119,7 @@ nav: true
 - [北欧の急激な少子化!日本の少子化対策は?](https://abema.tv/video/episode/89-71_s10_p4972). ABEMAヒルズ. 2023年5月31日.
 - [各国異なる状況、制度より環境](https://note.com/rmogimogi/n/n3c6abfdbc827). 朝日中高生新聞. 2023年4月9日.
 - [New mothers are getting older - but in East Jutland there is still a preponderance of teenage mothers](https://www.tv2ostjylland.dk/oestjylland/nye-moedre-bliver-aeldre-men-i-oestjylland-er-der-stadig-overvaegt-af-teenage-moedre). TV2 Østjylland. 2023年4月5日.（デンマーク語）
+- [Over-45s in Denmark giving birth more than teens](https://cphpost.dk/2023-04-04/news/over-45s-in-denmark-giving-birth-more-than-teens/). The Copenhagen Post. 2023年4月4日.（英語）
 - [Fertility is now a global challenge - report exposes one important truth](https://nyheder.tv2.dk/samfund/2023-04-04-fertilitet-er-nu-en-global-udfordring-rapport-blotlaegger-en-vigtig-sandhed). Nyheder TV2. 2023年4月4日.（デンマーク語）
 - [Two numbers say a lot about how we have children today: Fertility expert calls it both a “triumph and an accident”](https://www.berlingske.dk/samfund/to-tal-siger-en-hel-del-om-hvordan-vi-i-dag-faar-boern-fertilitetsekspert). Berlingske. 2023年4月3日.（デンマーク語）
 - [人口学](https://note.com/rmogimogi/n/n0a5e79164b86). JDnet. 2023年3月.
