@@ -50,8 +50,6 @@ Here are the main ways I collaborate:
 
 <br />
 
-#### **Contact**
-
 <div class="cta-card">
   <div class="cta-text">
     Please feel free to get in touch for any inquiries.
