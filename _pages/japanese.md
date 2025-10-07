@@ -1,20 +1,14 @@
 ---
 layout: page
-title: 
+title: 茂木良平
 permalink: /japanese/
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
 
 nav: true
 ---
 
 <img width = "250" alt = "プロフィール画像" src = "/assets/img/prof_pic.jpg">
 
-**茂木良平** 
 人口学者（人口学博士）
 
 ポンペウ・ファブラ大学 政治・社会科学学部 研究員  
@@ -41,7 +35,7 @@ nav: true
 
 <div class="cta-card">
   <div class="cta-text">
-    <strong>ご相談はお気軽に</strong>
+    <strong>まずはお気軽にお問い合わせください。</strong>
   </div>
   <a class="btn-cta" href="mailto:ryohei.mogi@upf.edu">📩 ryohei.mogi[at]upf.edu</a>
 </div>
@@ -251,3 +245,13 @@ nav: true
 #### 学術論文、学会発表
 
 当サイトのCV、もしくは[Google Scholar](https://scholar.google.com/citations?user=gfakESwAAAAJ&hl=en)をご覧ください。
+
+#### ご連絡先
+
+<div class="cta-card">
+  <div class="cta-text">
+    <strong>講演・コンサル・メディア対応・ご相談など</strong><br>
+    まずはお気軽にお問い合わせください。
+  </div>
+  <a class="btn-cta" href="mailto:ryohei.mogi@upf.edu">📩 ryohei.mogi[at]upf.edu</a>
+</div>

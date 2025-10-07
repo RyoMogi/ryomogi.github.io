@@ -1,7 +1,38 @@
-.cta-card{
-  display:flex;gap:16px;align-items:center;justify-content:space-between;
-  padding:18px;border:1px solid #e2e8f0;border-radius:14px;background:#f8fafc;
-  box-shadow:0 8px 20px rgba(2,6,23,.06);margin:28px 0
+.cta-card {
+  display: flex;
+  flex-direction: column; /* 縦並びにして中央寄せ */
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 14px;
+
+  padding: 22px;
+  border: 2px solid #2563eb; /* 濃い青 */
+  border-radius: 16px;
+  background: #eff6ff; /* 薄い青背景 */
+  box-shadow: 0 8px 20px rgba(37, 99, 235, 0.15);
+  margin: 32px 0;
 }
-.cta-text{font-size:1.05rem;line-height:1.5}
-@media(max-width:720px){.cta-card{flex-direction:column;align-items:flex-start}}
+
+.cta-text {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  color: #1e3a8a; /* 濃いめの青文字 */
+}
+
+.btn-cta {
+  display: inline-block;
+  padding: 14px 24px;
+  border-radius: 999px;
+  background: #2563eb;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  box-shadow: 0 6px 18px rgba(37, 99, 235, 0.3);
+}
+
+.btn-cta:hover {
+  filter: brightness(1.08);
+  transform: translateY(-2px);
+}
