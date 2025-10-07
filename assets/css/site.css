@@ -1,15 +1,15 @@
 .cta-card {
   display: flex;
-  flex-direction: column; /* 縦並びにして中央寄せ */
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
   gap: 14px;
 
   padding: 22px;
-  border: 2px solid #2563eb; /* 濃い青 */
+  border: 4px solid #2563eb; /* 枠線を太く＆濃いブルー */
   border-radius: 16px;
-  background: #eff6ff; /* 薄い青背景 */
+  background: #f0f7ff; /* 淡い青背景 */
   box-shadow: 0 8px 20px rgba(37, 99, 235, 0.15);
   margin: 32px 0;
 }
@@ -17,7 +17,7 @@
 .cta-text {
   font-size: 1.1rem;
   line-height: 1.5;
-  color: #1e3a8a; /* 濃いめの青文字 */
+  color: #1e3a8a; /* ネイビーで誠実感 */
 }
 
 .btn-cta {
@@ -35,4 +35,8 @@
 .btn-cta:hover {
   filter: brightness(1.08);
   transform: translateY(-2px);
+}
+
+.spaced-list ul li {
+  margin-bottom: 10px;
 }

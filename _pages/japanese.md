@@ -21,6 +21,8 @@ nav: true
 
 <br />
 
+<div class="spaced-list">
+
 #### ご依頼いただけること
 - **アドバイザー業務**  
   行政や企業内での意思決定をサポートし、EBPMの実装を支援します。 
@@ -32,6 +34,8 @@ nav: true
   国内外のメディア取材、記事監修、ファクトチェックに対応しています。  
 - **執筆・寄稿**  
   新聞・雑誌・ウェブ記事や政策レポートへの寄稿が可能です。  
+
+</div>
 
 <div class="cta-card">
   <div class="cta-text">
@@ -245,6 +249,8 @@ nav: true
 #### 学術論文、学会発表
 
 当サイトのCV、もしくは[Google Scholar](https://scholar.google.com/citations?user=gfakESwAAAAJ&hl=en)をご覧ください。
+
+<br />
 
 #### ご連絡先
 
