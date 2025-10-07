@@ -4,9 +4,10 @@ title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-#profile:
-#  align: right
-#  image: prof_pic.jpg
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -37,7 +38,7 @@ Here are the main ways I collaborate:
 
 <br />
 
-**Selected Media Coverage** 
+**Media Appearances & Interviews (Selected)** 
 <img width = "750" alt = "Selected media coverage" src = "/assets/img/media_logos_eng.png">
 
 - [Todo por hacer](https://www.rtve.es/play/audios/todo-por-hacer/ia-generacion-voces-30-09-25/16751021/). Radio 5, rtve. 30/09/2025. (In Spanish)
