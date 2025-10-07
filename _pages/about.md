@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 Ryohei Mogi is a demographer who **bridges scientific research with real-world action**.  
 My mission is to turn evidence into action to tackle low fertility, through research and collaboration with policymakers, the media, and both public and private sectors.**
 
----
+<br />
 
 #### Background
 I received my Ph.D. in Demography from the Centre for Demographic Studies, Universitat Autònoma de Barcelona.  
@@ -25,7 +25,7 @@ I am currently based at Pompeu Fabra University in Barcelona.
 
 My expertise lies in **comparative demographic research**, analysing fertility and family change.
 
----
+<br />
 
 #### How I work with partners
 Alongside academic research, I actively engage with **policymakers, media, and the public and private sectors**.  
@@ -35,8 +35,10 @@ Here are the main ways I collaborate:
 - **Public speaking & lectures**: Keynotes, seminars, and talks on fertility and population issues 
 - **Writing & media**: Articles, commentary, and fact-checking for newspapers, magazines, and international media outlets  
 
+<br />
+
 **Selected Media Coverage** 
-<img width = "750" alt = "メディア出演一例" src = "/assets/img/media_logos_jpn.png">
+<img width = "750" alt = "Selected media coverage" src = "/assets/img/media_logos_eng.png">
 
 - [Todo por hacer](https://www.rtve.es/play/audios/todo-por-hacer/ia-generacion-voces-30-09-25/16751021/). Radio 5, rtve. 30/09/2025. (In Spanish)
 - [What superstition tells us about humanity](https://www.ft.com/content/ffa159c2-33f0-49f8-ad69-e78893d7f377). Financial Times. 25/09/2025. (In English)
@@ -50,6 +52,7 @@ Here are the main ways I collaborate:
 
 Please feel free to get in touch for speaking engagements, advisory work, or media commentary.
 
+<br />
 
 #### **My 4 missions as a demographer**
 
