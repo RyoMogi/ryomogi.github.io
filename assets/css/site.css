@@ -7,7 +7,7 @@
   gap: 14px;
 
   padding: 22px;
-  border: 4px solid #2563eb; /* 枠線を太く＆濃いブルー */
+  border: 4px solid #1e3a8a; 
   border-radius: 16px;
   background: #f0f7ff; /* 淡い青背景 */
   box-shadow: 0 8px 20px rgba(37, 99, 235, 0.15);
@@ -17,15 +17,15 @@
 .cta-text {
   font-size: 1.1rem;
   line-height: 1.5;
-  color: #1e3a8a; /* ネイビーで誠実感 */
+  color: #1e3a8a;
 }
 
 .btn-cta {
   display: inline-block;
   padding: 14px 24px;
   border-radius: 999px;
-  background: #2563eb;
-  color: #fff;
+  background: #1e3a8a;
+  color: #fff !important;   /* 常に白字 */
   font-weight: 700;
   text-decoration: none;
   transition: all 0.2s ease;
@@ -35,8 +35,5 @@
 .btn-cta:hover {
   filter: brightness(1.08);
   transform: translateY(-2px);
-}
-
-.spaced-list ul li {
-  margin-bottom: 10px;
+  color: #fff !important;   /* hover時も白字を維持 */
 }
