@@ -43,19 +43,43 @@
 hr{ border-color:#E2E8F0; }
 .mark-border{ border-left:4px solid #1E3A8A; padding-left:12px; }
 
-.profile-container {
-  display: flex;
-  align-items: flex-start; /* 上揃え */
-  gap: 20px; /* 画像と文章の間隔 */
+/* --- Profile header (画像＋紹介文の横並び) --- */
+.profile-container{
+  display:flex;
+  align-items:flex-start;     /* 上揃え */
+  gap:24px;                   /* 画像と文章の間隔 */
+  margin:12px 0 20px;         /* セクション間の余白 */
+  flex-wrap:nowrap;
 }
 
-.profile-container img {
-  max-width: 250px;
-  height: auto;
-  border-radius: 8px;
+.profile-container img{
+  width:auto;
+  /* 画面に合わせて自動調整：最小180px、推奨は26vw、最大260px */
+  max-width: clamp(180px, 26vw, 260px);
+  height:auto;
+  border-radius:8px;
+  flex:0 0 auto;              /* 画像幅を固定扱いに */
 }
 
-.profile-text {
-  flex: 1; /* 残り幅を文章に使う */
+.profile-text{
+  flex:1 1 auto;              /* 残り幅をテキストに */
+  min-width: 240px;
+  line-height:1.75;           /* 読みやすさ */
+}
+
+/* スマホ・タブレットでは縦積み＆中央寄せ */
+@media (max-width: 768px){
+  .profile-container{
+    flex-direction:column;
+    align-items:center;
+    text-align:left;          /* 左寄せのままが読みやすいなら left */
+    gap:16px;
+  }
+  .profile-container img{
+    max-width:220px;          /* スマホでの上限 */
+  }
+  .profile-text{
+    width:100%;
+  }
 }
 
