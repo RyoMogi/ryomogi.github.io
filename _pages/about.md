@@ -15,8 +15,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Ryohei Mogi is a demographer who **bridges scientific research with real-world action**.  
+
+<br />
+
 My mission is to turn evidence into action to tackle low fertility, through research and collaboration with policymakers, the media, and both public and private sectors.
 
+<br />
 <br />
 
 #### **Background**
