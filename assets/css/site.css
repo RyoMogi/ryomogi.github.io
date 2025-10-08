@@ -42,3 +42,36 @@
 /* --- 補助 --- */
 hr{ border-color:#E2E8F0; }
 .mark-border{ border-left:4px solid #1E3A8A; padding-left:12px; }
+
+/* === Profile image layout fix === */
+.profile{
+  float: left;                 /* 左寄せ */
+  width: 320px;                /* 画像枠の幅を固定（お好みで 280–360px） */
+  max-width: 40%;              /* 画面が狭い時は自然に縮む */
+  margin: 8px 32px 16px 0;     /* 右に十分な余白を作る → テキストと離す */
+}
+
+.profile img{
+  display: block;
+  width: 100%;                 /* 枠幅に合わせてフィット */
+  height: auto;
+  border-radius: 6px;          /* 任意：角丸 */
+}
+
+/* 見出しが画像に寄りすぎないよう少し余白（任意） */
+.post .post-title{ margin-bottom: 18px; }
+
+/* スマホ・タブレットでは縦積みに */
+@media (max-width: 992px){
+  .profile{
+    float: none !important;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    margin: 0 0 16px 0;        /* 上下だけにする */
+  }
+  .profile img{
+    max-width: 260px;          /* スマホで大きすぎないよう上限 */
+    margin: 0 auto;
+  }
+}
