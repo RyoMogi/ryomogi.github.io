@@ -83,27 +83,17 @@ blockquote {
 // Profile
 
 .profile {
-  margin-left: 1rem;
-  width: 100%;
-
+  margin-left: 0;     /* レイアウトは site.css に任せる */
+  width: auto;
   .address {
-    margin-bottom: 5px;
-    margin-top: 5px;
+    margin: 5px 0;
     font-family: monospace;
-    p {
-      display: inline-block;
-      margin: 0;
-    }
+    p { display: inline-block; margin: 0; }
   }
 }
 
 @media (min-width: 576px) {
-  .profile {
-    width: 30%;
-    .address {
-      p { display: block; }
-    }
-  }
+  .profile .address p { display:block; }
 }
 
 .post-description {

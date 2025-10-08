@@ -12,7 +12,7 @@ social: true  # includes social icons at the bottom of the page
 <div class="profile-container">
   <img src="/assets/img/prof_pic.jpg" alt="portrait">
   <div class="profile-text">
-    <p>Ryohei Mogi</p>
+    <p class="profile-name">Ryohei Mogi</p>
     <p>Ph.D. in Demography</p>
     <p>Pompeu Fabra University, Department of Political and Social Science</p>
   </div>
