@@ -14,14 +14,15 @@ social: true  # includes social icons at the bottom of the page
   <div class="profile-text">
     <p>Ryohei Mogi</p>
     <p>Ph.D. in Demography</p>
+    <p>Pompeu Fabra University, Department of Political and Social Science</p>
   </div>
 </div>
 
 Ryohei Mogi is a demographer who **bridges scientific research with real-world action**.  
 
-<br />
-
 My mission is to turn evidence into action to tackle low fertility, through research and collaboration with policymakers, the media, and both public and private sectors.
+
+<br />
 
 #### **Background**
 I received my Ph.D. in Demography from the Centre for Demographic Studies, Universitat Autònoma de Barcelona.  

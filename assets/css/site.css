@@ -66,6 +66,18 @@ hr{ border-color:#E2E8F0; }
   line-height:1.75;           /* 読みやすさ */
 }
 
+.profile-name {
+  font-size: 1.8rem;   /* 大きさ。デフォルトより大きめ */
+  font-weight: 700;    /* 太字 */
+  margin-bottom: 0.5em;
+}
+
+@media (max-width: 768px){
+  .profile-name {
+    font-size: 1.5rem; /* スマホ用に少し小さめ */
+  }
+}
+
 /* スマホ・タブレットでは縦積み＆中央寄せ */
 @media (max-width: 768px){
   .profile-container{

@@ -10,7 +10,7 @@ nav: true
 <div class="profile-container">
   <img src="/assets/img/prof_pic.jpg" alt="プロフィール画像">
   <div class="profile-text">
-    <p>茂木良平（もぎ りょうへい） </p>
+    <p class="profile-name">茂木良平（もぎ りょうへい） </p>
     <p>人口学者（人口学博士）</p>
     <p>ポンペウ・ファブラ大学 政治・社会科学学部 研究員<br>
        国立社会保障・人口問題研究所 客員研究員</p>
