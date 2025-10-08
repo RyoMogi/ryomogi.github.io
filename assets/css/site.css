@@ -12,7 +12,7 @@
 }
 .cta-text{
   font-size:1.1rem; line-height:1.5;
-  color:#1E3A8A;                        /* 枠線と統一 */
+  color:#000;                        /* 枠線と統一 */
 }
 
 /* --- CTAボタン（メール用：ディープブルー背景＋白文字） --- */
