@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A list of my peer-reviewed publications. Please also have a look at "Projects" page for ongoing projects and other types of publications.
+description: A list of my peer-reviewed publications.
 years: [2025, 2024, 2023, 2022, 2021, 2020, 2018, 2015]
 nav: true
 ---
