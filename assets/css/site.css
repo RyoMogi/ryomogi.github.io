@@ -54,8 +54,7 @@ hr{ border-color:#E2E8F0; }
 
 .profile-container img{
   width:auto;
-  /* 画面に合わせて自動調整：最小180px、推奨は26vw、最大260px */
-  max-width: clamp(180px, 26vw, 260px);
+  max-width: clamp(200px, 30vw, 320px);
   height:auto;
   border-radius:8px;
   flex:0 0 auto;              /* 画像幅を固定扱いに */

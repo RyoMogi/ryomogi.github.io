@@ -4,24 +4,24 @@ title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: left
-  image: prof_pic.jpg
-  image_circular: false
-
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+<div class="profile-container">
+  <img src="/assets/img/prof_pic.jpg" alt="portrait">
+  <div class="profile-text">
+    <p>Ryohei Mogi</p>
+    <p>Ph.D. in Demography</p>
+  </div>
+</div>
 
 Ryohei Mogi is a demographer who **bridges scientific research with real-world action**.  
 
 <br />
 
 My mission is to turn evidence into action to tackle low fertility, through research and collaboration with policymakers, the media, and both public and private sectors.
-
-<br />
-<br />
 
 #### **Background**
 I received my Ph.D. in Demography from the Centre for Demographic Studies, Universitat Autònoma de Barcelona.  
