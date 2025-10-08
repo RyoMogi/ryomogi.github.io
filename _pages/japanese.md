@@ -5,9 +5,16 @@ permalink: /japanese/
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 nav: true
----
 
-<img width = "250" alt = "プロフィール画像" src = "/assets/img/prof_pic.jpg">
+profile:
+  align: left
+  image: prof_pic.jpg
+  image_circular: false
+
+news: false
+selected_papers: false
+social: false
+---
 
 人口学者（人口学博士）
 
