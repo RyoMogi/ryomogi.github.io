@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: 茂木良平
 permalink: /japanese/
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -16,6 +16,8 @@ nav: true
        国立社会保障・人口問題研究所 客員研究員</p>
   </div>
 </div>
+
+<br />
 
 私は**「研究 × 政策 × 社会発信」**を軸に、少子化課題の理解と改善に取り組んでいます。
 研究で得た知見を活かし、**自治体・企業・メディアの皆さまと協働して「少子化課題の改善に直結するアクション」を実行・支援**します。

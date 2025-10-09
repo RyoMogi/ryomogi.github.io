@@ -94,3 +94,6 @@ hr{ border-color:#E2E8F0; }
   }
 }
 
+.post-header {
+  display: none;
+}
