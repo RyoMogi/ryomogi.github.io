@@ -1,9 +1,11 @@
 ---
 layout: page
-title: 茂木良平
+title: 茂木良平 | 少子化研究者
 permalink: /japanese/
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
+lang: ja
+description: "研究×政策×社会発信で、少子化課題の理解と改善に取り組みます（日本語）。"
 nav: true
 ---
 

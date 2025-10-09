@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Ryohei Mogi | Demographer # the website title (if blank, full name will be used instead)
 first_name: Ryohei
 middle_name:
 last_name: Mogi
@@ -13,6 +13,7 @@ footer_text: >
 keywords: demography, researcher, fertility, evidence, policy, Japan  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+timezone: Europe/Madrid
 icon: /assets/img/favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ryomogi.github.io # the base hostname & protocol for your site
@@ -44,8 +45,8 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -55,7 +56,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: RyoMogi # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: rmogimogi # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: ryohei-mogi-45bb73174 # your LinkedIn user name
 scholar_userid: gfakESwAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: rmogi # your Medium username

@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+description: "Demographer bridging scientific research with real-world action on low fertility (EN)."
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 news: true  # includes a list of news items
@@ -14,11 +15,11 @@ social: true  # includes social icons at the bottom of the page
   <div class="profile-text">
     <p class="profile-name">Ryohei Mogi</p>
     <p>Ph.D. in Demography</p>
-    <p>Pompeu Fabra University, Department of Political and Social Science</p>
+    <p>Pompeu Fabra University, Department of Political and Social Science (Spain)</p>
   </div>
 </div>
 
-Ryohei Mogi is a demographer who **bridges scientific research with real-world action**.  
+I am a demographer who **bridge scientific research with real-world action**.  
 
 My mission is to turn evidence into action to tackle low fertility, through research and collaboration with policymakers, the media, and both public and private sectors.
 
