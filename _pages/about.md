@@ -44,6 +44,11 @@ Here are the main ways I collaborate:
 
 <br />
 
+**Invited Talks (Selected)**
+- 06/03/2024. Challenges of dataviz and the reactions from the internet audience to our study. RAS seminar, Office for National Statistics, the UK.
+
+At universities: Universidad Nacional de Educación a Distancia (Spain), Charles University (Czechia), London School of Hygiene and Tropical Medicine, Princeton University, Macquarie University (Australia)
+
 **Media Appearances & Interviews (Selected)** 
 <img width = "750" alt = "Selected media coverage" src = "/assets/img/media_logos_eng.png">
 
