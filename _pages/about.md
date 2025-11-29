@@ -45,6 +45,7 @@ Here are the main ways I collaborate:
 <br />
 
 **Invited Talks (Selected)**
+- 26/11/2025. What can we learn from Japan's approach to healthy ageing? 8th How to make good things happen: global lessons for UK policymakers, Nesta and BIT, the UK. [Archived video](https://www.youtube.com/live/ckWXcIls7nc?si=OnvlMvejBFDFzioy)
 - 06/03/2024. Challenges of dataviz and the reactions from the internet audience to our study. RAS seminar, Office for National Statistics, the UK.
 
 At universities: Universidad Nacional de Educación a Distancia (Spain), Charles University (Czechia), London School of Hygiene and Tropical Medicine, Princeton University, Macquarie University (Australia)

@@ -57,6 +57,12 @@ nav: true
 
 <table class="table table-sm table-borderless">
   <tr>
+    <th style="width: 15%;" scope="row">2025年</th>
+    <td>厚生労働省「育児休業等給付に関する広報事業一式」に係る提案書技術審査委員会
+委員
+</td>
+  </tr>
+  <tr>
     <th style="width: 15%;" scope="row">2024年〜現在</th>
     <td>佐賀県 佐賀市 「人口政策アドバイザー」</td>
   </tr>
@@ -79,7 +85,8 @@ nav: true
 <br />
 
 #### 講演・セミナー実績
-- 2025年7月29日　株式会社三井住友フィナンシャルグループ「GREEN×GLOBE Partners」主催 人口学者・社会起業家と問い直す：Z世代と共に向き合う、少子化時代の未来デザイン ~ReDesign Family & Work~
+- 2025年11月26日　イギリスシンクタンク Nesta、BIT主催：「What can we learn from Japan's approach to healthy ageing?」[動画](https://www.youtube.com/live/ckWXcIls7nc?si=VqDJkX8maxAI4jZT)
+- 2025年7月29日　株式会社三井住友フィナンシャルグループ「GREEN×GLOBE Partners」主催 人口学者・社会起業家と問い直す：Z世代と共に向き合う、少子化時代の未来デザイン ~ReDesign Family & Work~ [記事](https://ggpartners.jp/article/000817.html)；[動画](https://www.youtube.com/live/_05uKnSZEDE?si=L-NIbuN_NlvlhrRB)
 - 2025年7月8日　富山市　令和7年度　人口減少・少子化対策スタートアップ特別講演会
 - 2025年6月16日　お茶の水女子大学博士のキャリアセミナー～海外で研究するということ〜
 - 2025年5月14日　NPO法人PolicyGarage 研究会：「自治体の独自少子化施策　低い認知度どうしたら改善できるのか」
