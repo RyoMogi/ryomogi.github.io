@@ -12,27 +12,24 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Ryohei Mogi | Demographer | blog</title>
+    <title>Ryohei Mogi | Demographer | The print-friendly (grey scale) categorical colour palette</title>
     <meta name="author" content="Ryohei  Mogi" />
-    <meta name="description" content="Demographer bridging research and action on low fertility. Speaking, consulting, and media commentary (EN/JP)
-" />
+    <meta name="description" content="The print-friendly (grey scale) categorical colour palette" />
     <meta name="keywords" content="demography, researcher, fertility, evidence, policy, Japan" />
 
     <!-- OpenGraph -->
     <meta property="og:site_name" content="Ryohei Mogi | Demographer" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Ryohei Mogi | Demographer | blog" />
-    <meta property="og:url" content="https://ryomogi.github.io/blog/" />
-    <meta property="og:description" content="Demographer bridging research and action on low fertility. Speaking, consulting, and media commentary (EN/JP)
-" />
+    <meta property="og:title" content="Ryohei Mogi | Demographer | The print-friendly (grey scale) categorical colour palette" />
+    <meta property="og:url" content="https://ryomogi.github.io/r/2019/11/28/colourpalete.html" />
+    <meta property="og:description" content="The print-friendly (grey scale) categorical colour palette" />
     
     <meta property="og:locale" content="en" />
 
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="blog" />
-    <meta name="twitter:description" content="Demographer bridging research and action on low fertility. Speaking, consulting, and media commentary (EN/JP)
-" />
+    <meta name="twitter:title" content="The print-friendly (grey scale) categorical colour palette" />
+    <meta name="twitter:description" content="The print-friendly (grey scale) categorical colour palette" />
     
     <meta name="twitter:site" content="@rmogimogi" />
     <meta name="twitter:creator" content="@rmogimogi" />
@@ -45,11 +42,10 @@
           "@type": "Person",
           "name": "Ryohei  Mogi"
         },
-        "url": "https://ryomogi.github.io/blog/",
+        "url": "https://ryomogi.github.io/r/2019/11/28/colourpalete.html",
         "@type": "WebSite",
-        "description": "Demographer bridging research and action on low fertility. Speaking, consulting, and media commentary (EN/JP)
-",
-        "headline": "blog",
+        "description": "The print-friendly (grey scale) categorical colour palette",
+        "headline": "The print-friendly (grey scale) categorical colour palette",
         "sameAs": ["https://scholar.google.com/citations?user=gfakESwAAAAJ", "https://github.com/RyoMogi", "https://www.linkedin.com/in/ryohei-mogi-45bb73174", "https://twitter.com/rmogimogi", "https://medium.com/@rmogi"],
         "name": "Ryohei  Mogi",
         "@context": "https://schema.org"
@@ -74,7 +70,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png">
     <link rel="stylesheet" href="/assets/css/main.css">
     <link rel="stylesheet" href="/assets/css/site.css">
-    <link rel="canonical" href="https://ryomogi.github.io/blog/">
+    <link rel="canonical" href="https://ryomogi.github.io/r/2019/11/28/colourpalete.html">
     
     <!-- Dark Mode -->
     
@@ -143,19 +139,86 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- _layouts/post.html -->
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+<div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">The print-friendly (grey scale) categorical colour palette</h1>
+    <p class="post-meta">November 28, 2019</p>
+    <p class="post-tags">
+      <a href="/blog/2019"> <i class="fas fa-calendar fa-sm"></i> 2019 </a>
+        ·  
+        <a href="/blog/tag/R,">
+          <i class="fas fa-hashtag fa-sm"></i> R,</a>  
+          <a href="/blog/tag/rstats">
+          <i class="fas fa-hashtag fa-sm"></i> rstats</a>  
+          
+        ·  
+        <a href="/blog/category/R">
+          <i class="fas fa-tag fa-sm"></i> R</a>  
+          
 
-  <ul class="post-list">
-    
-  </ul>
+    </p>
+  </header>
 
-  
+  <article class="post-content">
+    <p>I have been looking for a colour palette that looks great both in a colour version and a printed version. More and more journals accept articles to have figures with colours, but some of them still do not.</p>
+
+<p>I used to use the palette from this <a href="http://dr-k-lo.blogspot.com/2013/07/a-color-blind-friendly-palette-for-r.html" target="_blank" rel="noopener noreferrer">website</a>: a colour-blind and print-friendly. It worked very well when I used it for three colours. But I realised that more than five colours from this palette do not work so well in a grey scale. So, I started creating a palette myself and after spending “some” hours, I finally got a satisfied my version of the colour palette.</p>
+
+<ul>
+  <li>Colour version</li>
+</ul>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/colourpalette-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/colourpalette-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/colourpalette-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/colourpalette.png">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<ul>
+  <li>Printed version</li>
+</ul>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/colourpaletteBW-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/colourpaletteBW-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/colourpaletteBW-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/colourpaletteBW.png">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<ul>
+  <li>HEX format: <code class="language-plaintext highlighter-rouge">#08306B</code>, <code class="language-plaintext highlighter-rouge">#238B45</code>, <code class="language-plaintext highlighter-rouge">#FD8D3C</code>, <code class="language-plaintext highlighter-rouge">#D4B9DA</code>, <code class="language-plaintext highlighter-rouge">#FFEDA0</code>
+</li>
+</ul>
+
+<p>Please feel free to use it if you like!</p>
+
+<p>I got this idea from Vladimir Canudas-Romo and also received several suggestions from my friends, Ilya (<a href="https://twitter.com/ikashnitsky?s=20&amp;t=YnCNCmVPKK48IGjQG43cmA" target="_blank" rel="noopener noreferrer">@ikashnitsky</a>) and Tim(<a href="https://twitter.com/timriffe1?s=20&amp;t=YnCNCmVPKK48IGjQG43cmA" target="_blank" rel="noopener noreferrer">@timriffe1</a>). Thanks!!</p>
+
+  </article>
 
 </div>
 

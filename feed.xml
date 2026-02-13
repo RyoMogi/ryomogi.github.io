@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ryomogi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ryomogi.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-13T21:51:18+01:00</updated><id>https://ryomogi.github.io/feed.xml</id><title type="html">Ryohei Mogi | Demographer</title><subtitle>Demographer bridging research and action on low fertility. Speaking, consulting, and media commentary (EN/JP)
+</subtitle><entry><title type="html">A list of postdoctoral fellowship in Europe, North America, and Australia</title><link href="https://ryomogi.github.io/career/2022/06/13/postdocfellowships.html" rel="alternate" type="text/html" title="A list of postdoctoral fellowship in Europe, North America, and Australia" /><published>2022-06-13T10:50:00+02:00</published><updated>2022-06-13T10:50:00+02:00</updated><id>https://ryomogi.github.io/career/2022/06/13/postdocfellowships</id><content type="html" xml:base="https://ryomogi.github.io/career/2022/06/13/postdocfellowships.html"><![CDATA[<p>I now survived for two years as a postdoc researcher in two different places outside of my home country. I think I can say that I did it, right? But still, I have been and am struggling to construct my academic career.</p>
+
+<p>There are three ways to get a postdoc position after your secured PhD period: 1) get a fellowship, 2) get a position opened by a research institute or university, 3) join in a research project. The option 2 and 3 are unpredictable, because you never know when, how many, and where the call is open by whom. So, only thing that we can prepare for and plan by ourselves is to apply a fellowship.</p>
+
+<p>That is why I made a list of postdoc fellowships for myself, and now I would like to share it to all postdoc survivors. <a href="https://docs.google.com/spreadsheets/d/144g4XX7YwKmJt2MAiu3LDlvUq1Byk6sKK5VQkUkRvFM/edit?usp=sharing">This list</a> contains 38 fellowships (for early career researchers) in Europe, North America, and Australia.</p>
+
+<p>Feel free to share this list to your colleagues and friends. Apply Apply Apply! Let’s survive together and get a permanent position one day.</p>]]></content><author><name></name></author><category term="Career" /><category term="Career," /><category term="Postdoc," /><category term="Fellowship" /><summary type="html"><![CDATA[A list of postdoctoral fellowship in Europe, North America, and Australia]]></summary></entry><entry><title type="html">The print-friendly (grey scale) categorical colour palette</title><link href="https://ryomogi.github.io/r/2019/11/28/colourpalete.html" rel="alternate" type="text/html" title="The print-friendly (grey scale) categorical colour palette" /><published>2019-11-28T10:26:00+01:00</published><updated>2019-11-28T10:26:00+01:00</updated><id>https://ryomogi.github.io/r/2019/11/28/colourpalete</id><content type="html" xml:base="https://ryomogi.github.io/r/2019/11/28/colourpalete.html"><![CDATA[<p>I have been looking for a colour palette that looks great both in a colour version and a printed version. More and more journals accept articles to have figures with colours, but some of them still do not.</p>
+
+<p>I used to use the palette from this <a href="http://dr-k-lo.blogspot.com/2013/07/a-color-blind-friendly-palette-for-r.html">website</a>: a colour-blind and print-friendly. It worked very well when I used it for three colours. But I realised that more than five colours from this palette do not work so well in a grey scale. So, I started creating a palette myself and after spending “some” hours, I finally got a satisfied my version of the colour palette.</p>
+
+<ul>
+  <li>Colour version</li>
+</ul>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/colourpalette-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/colourpalette-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/colourpalette-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/colourpalette.png" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<ul>
+  <li>Printed version</li>
+</ul>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/colourpaletteBW-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/colourpaletteBW-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/colourpaletteBW-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/colourpaletteBW.png" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<ul>
+  <li>HEX format: <code class="language-plaintext highlighter-rouge">#08306B</code>, <code class="language-plaintext highlighter-rouge">#238B45</code>, <code class="language-plaintext highlighter-rouge">#FD8D3C</code>, <code class="language-plaintext highlighter-rouge">#D4B9DA</code>, <code class="language-plaintext highlighter-rouge">#FFEDA0</code></li>
+</ul>
+
+<p>Please feel free to use it if you like!</p>
+
+<p>I got this idea from Vladimir Canudas-Romo and also received several suggestions from my friends, Ilya (<a href="https://twitter.com/ikashnitsky?s=20&amp;t=YnCNCmVPKK48IGjQG43cmA">@ikashnitsky</a>) and Tim(<a href="https://twitter.com/timriffe1?s=20&amp;t=YnCNCmVPKK48IGjQG43cmA">@timriffe1</a>). Thanks!!</p>]]></content><author><name></name></author><category term="R" /><category term="R," /><category term="rstats" /><summary type="html"><![CDATA[The print-friendly (grey scale) categorical colour palette]]></summary></entry></feed>
