@@ -104,6 +104,7 @@ nav: true
 #### メディア掲載
 <img width = "750" alt = "メディア出演一例" src = "/assets/img/media_logos_jpn.png">
 
+- [Love, engineered in the age of AI](https://www.japantimes.co.jp/life/2026/02/13/lifestyle/japan-ai-dating-marriage/). Japan Times. 2026年2月13日.（英語）
 - [この1年で90万人減 深刻な課題“人口減少” 少子化対策は何のため？ 専門家｢国や社会のためではなく“個人の理想子ども数”を産めるための支援｣](https://newsdig.tbs.co.jp/articles/-/2367350?display=1). 報道のチカラ2025, CBCテレビ. 2025年12月28日.
 - [Todo por hacer](https://www.rtve.es/play/audios/todo-por-hacer/ia-generacion-voces-30-09-25/16751021/). Radio 5, rtve. 2025年9月30日.（スペイン語）
 - [What superstition tells us about humanity](https://www.ft.com/content/ffa159c2-33f0-49f8-ad69-e78893d7f377). Financial Times. 2025年9月25日.（英語）
