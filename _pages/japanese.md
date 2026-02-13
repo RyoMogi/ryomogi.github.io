@@ -80,11 +80,12 @@ nav: true
   </tr>
 </table>
 
-有識者ヒアリング ： こども家庭庁、デジタル庁、厚生労働省、東京都港区、神奈川県横浜市、石川県加賀市
+有識者ヒアリング ： こども家庭庁、デジタル庁、厚生労働省、東京都、神奈川県横浜市、石川県加賀市
 
 <br />
 
 #### 講演・セミナー実績
+- 2026年2月13日　佐賀市 令和７年度 第１回佐賀市まち・ひと・しごと創生推進会議
 - 2025年11月26日　イギリスシンクタンク Nesta、BIT主催：「What can we learn from Japan's approach to healthy ageing?」[動画](https://www.youtube.com/live/ckWXcIls7nc?si=VqDJkX8maxAI4jZT)
 - 2025年7月29日　株式会社三井住友フィナンシャルグループ「GREEN×GLOBE Partners」主催 人口学者・社会起業家と問い直す：Z世代と共に向き合う、少子化時代の未来デザイン ~ReDesign Family & Work~ [記事](https://ggpartners.jp/article/000817.html)；[動画](https://www.youtube.com/live/_05uKnSZEDE?si=L-NIbuN_NlvlhrRB)
 - 2025年7月8日　富山市　令和7年度　人口減少・少子化対策スタートアップ特別講演会

@@ -53,6 +53,7 @@ At universities: Universidad Nacional de Educación a Distancia (Spain), Charles
 **Media Appearances & Interviews (Selected)** 
 <img width = "750" alt = "Selected media coverage" src = "/assets/img/media_logos_eng.png">
 
+- [Love, engineered in the age of AI](https://www.japantimes.co.jp/life/2026/02/13/lifestyle/japan-ai-dating-marriage/). Japan Times. 13/02/2026.（In English）
 - [Todo por hacer](https://www.rtve.es/play/audios/todo-por-hacer/ia-generacion-voces-30-09-25/16751021/). Radio 5, rtve. 30/09/2025. (In Spanish)
 - [What superstition tells us about humanity](https://www.ft.com/content/ffa159c2-33f0-49f8-ad69-e78893d7f377). Financial Times. 25/09/2025. (In English)
 - [New mothers are getting older - but in East Jutland there is still a preponderance of teenage mothers](https://www.tv2ostjylland.dk/oestjylland/nye-moedre-bliver-aeldre-men-i-oestjylland-er-der-stadig-overvaegt-af-teenage-moedre). TV2 Østjylland. 05/04/2023. (In Danish)
