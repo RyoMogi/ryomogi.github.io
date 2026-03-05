@@ -14,8 +14,7 @@ nav: true
   <div class="profile-text">
     <p class="profile-name">茂木良平（もぎ りょうへい） </p>
     <p>人口学者（人口学博士）</p>
-    <p>ポンペウ・ファブラ大学 政治・社会科学学部 研究員<br>
-       国立社会保障・人口問題研究所 客員研究員</p>
+    <p>ポンペウ・ファブラ大学 政治・社会科学学部 研究員</p>
   </div>
 </div>
 
@@ -105,6 +104,7 @@ nav: true
 #### メディア掲載
 <img width = "750" alt = "メディア出演一例" src = "/assets/img/media_logos_jpn.png">
 
+- 東京2兆円支援成果. 読売新聞（朝刊）. 2026年2月27日.
 - [Love, engineered in the age of AI](https://www.japantimes.co.jp/life/2026/02/13/lifestyle/japan-ai-dating-marriage/). Japan Times. 2026年2月13日.（英語）
 - [この1年で90万人減 深刻な課題“人口減少” 少子化対策は何のため？ 専門家｢国や社会のためではなく“個人の理想子ども数”を産めるための支援｣](https://newsdig.tbs.co.jp/articles/-/2367350?display=1). 報道のチカラ2025, CBCテレビ. 2025年12月28日.
 - [Todo por hacer](https://www.rtve.es/play/audios/todo-por-hacer/ia-generacion-voces-30-09-25/16751021/). Radio 5, rtve. 2025年9月30日.（スペイン語）
@@ -198,10 +198,6 @@ nav: true
   <tr>
     <th style="width: 15%;" scope="row">2025年〜現在</th>
     <td>ポンペウ・ファブラ大学 政治・社会科学学部 研究員（ベアトリウ・デ・ピノスフェロー）</td>
-  </tr>
-  <tr>
-    <th style="width: 15%;" scope="row">2019年〜現在</th>
-    <td>国立社会保障・人口問題研究所 客員研究員</td>
   </tr>
   <tr>
     <th style="width: 15%;" scope="row">2024年〜2025年</th>
