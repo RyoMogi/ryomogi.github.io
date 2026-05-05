@@ -1,6 +1,65 @@
     <!-- Metadata, OpenGraph and Schema.org -->
     {% include metadata.html %}
 
+<!-- hreflang -->
+{% if page.url == "/" or page.url == "/index.html" %}
+  <link rel="alternate" hreflang="en" href="https://ryomogi.github.io/">
+  <link rel="alternate" hreflang="ja" href="https://ryomogi.github.io/japanese/">
+  <link rel="alternate" hreflang="x-default" href="https://ryomogi.github.io/">
+{% elsif page.url contains "japanese" %}
+  <link rel="alternate" hreflang="ja" href="https://ryomogi.github.io/japanese/">
+  <link rel="alternate" hreflang="en" href="https://ryomogi.github.io/">
+  <link rel="alternate" hreflang="x-default" href="https://ryomogi.github.io/">
+{% endif %}
+
+<!-- JSON-LD: Person（既存のWebSiteスキーマを補強） -->
+{% if page.url == "/" or page.url == "/index.html" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ryohei Mogi",
+  "alternateName": ["茂木良平", "Mogi Ryohei", "R. Mogi"],
+  "url": "https://ryomogi.github.io/",
+  "image": "https://ryomogi.github.io/assets/img/prof_pic.jpg",
+  "jobTitle": "Demographer",
+  "description": "Population researcher and demographer specializing in low fertility, family demography, and evidence-based policy. Beatriu de Pinós Fellow at Pompeu Fabra University. Policy advisor to Japanese municipalities.",
+  "knowsAbout": ["Demography","Low fertility","Population decline","Family demography","Evidence-based policy","少子化","人口減少","人口学","EBPM"],
+  "sameAs": [
+    "https://twitter.com/rmogimogi",
+    "https://twitter.com/rmogi_jpn",
+    "https://www.linkedin.com/in/ryohei-mogi-45bb73174/",
+    "https://scholar.google.com/citations?user=gfakESwAAAAJ",
+    "https://orcid.org/0000-0001-6654-2468",
+    "https://note.com/rmogimogi",
+    "https://ryomogi.github.io/japanese/"
+  ]
+}
+</script>
+{% elsif page.url contains "japanese" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "茂木良平",
+  "alternateName": ["Ryohei Mogi", "もぎ りょうへい"],
+  "url": "https://ryomogi.github.io/japanese/",
+  "image": "https://ryomogi.github.io/assets/img/prof_pic.jpg",
+  "jobTitle": "人口学者・少子化研究者",
+  "description": "少子化・人口減少を専門とする人口学者。ポンペウ・ファブラ大学研究員。佐賀市・福井県など自治体の人口政策アドバイザー。EBPM実装支援。日経グローカル連載。",
+  "knowsAbout": ["少子化","人口減少","人口学","少子化対策","EBPM","エビデンスに基づく政策立案","婚姻行動","家族人口学"],
+  "sameAs": [
+    "https://twitter.com/rmogi_jpn",
+    "https://note.com/rmogimogi",
+    "https://ryomogi.github.io/",
+    "https://scholar.google.com/citations?user=gfakESwAAAAJ",
+    "https://orcid.org/0000-0001-6654-2468"
+  ]
+}
+</script>
+{% endif %}
+
+
     <!-- Bootstrap & MDB -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@{{ site.bootstrap.version }}/dist/css/bootstrap.min.css" rel="stylesheet" integrity="{{ site.bootstrap.integrity.css }}" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@{{ site.mdb.version }}/css/mdb.min.css" integrity="{{ site.mdb.integrity.css }}" crossorigin="anonymous" />

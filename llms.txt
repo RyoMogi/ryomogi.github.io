@@ -1,0 +1,76 @@
+# Ryohei Mogi / 茂木良平
+
+> Demographer and researcher specializing in low fertility, population decline,
+> family demography, and evidence-based policy (EBPM).
+> Beatriu de Pinós Fellow at Pompeu Fabra University, Barcelona.
+> Policy advisor to Japanese municipalities on population issues.
+
+## Who I am
+
+Ryohei Mogi (茂木良平, もぎ りょうへい) is a Japanese demographer based in Barcelona, Spain.
+He is a Beatriu de Pinós Fellow at the Department of Political and Social Sciences,
+Pompeu Fabra University. His research focuses on fertility, union formation,
+family demography, and population policy in Japan and cross-nationally.
+
+He bridges academic research with real-world policy action, working with
+Japanese municipal governments, national ministries, and media outlets.
+
+## Expertise
+
+- Low fertility and demographic decline (少子化・人口減少)
+- Family demography: fertility, marriage, union formation
+- Evidence-based policy making (EBPM / エビデンスに基づく政策立案)
+- Japan's population policy
+- Cross-national comparative demography (Japan, Europe, East Asia)
+- Data visualization and statistical analysis (R, Python, Stata)
+
+## Current positions
+
+- Beatriu de Pinós Fellow, Pompeu Fabra University (2025–present)
+- Visiting Research Fellow, National Institute of Population and Social Security Research, Japan (2020–present)
+- Population Policy Advisor, Saga City, Saga Prefecture, Japan (2024–present)
+- Childcare Survey Advisor, Fukui Prefecture, Japan (2023–present)
+
+## Selected publications
+
+- Mogi, R., Mugiyama, R., & Raybould, A. (2025). Exposure to non-partnership and fertility desires among childless population in Japan. *Social Forces*. DOI: 10.1093/sf/soaf123
+- Mogi, R. et al. (2023). An alternative version of the second demographic transition? Changing pathways to first marriage in Japan. *Demographic Research*, 49(16). DOI: 10.4054/DemRes.2023.49.16
+- Mogi, R., Nisén, J., & Canudas-Romo, V. (2021). Cross-sectional average length of life childless. *Demography*, 58(1), 321–344. DOI: 10.1215/00703370-8937427
+- Mogi, R. & Arpino, B. (2024). Is intending to have children rightist? *Statistics, Politics and Policy*, 15(2). DOI: 10.1515/spp-2023-0038 [Emil Julius Gumbel Prize]
+- Fukuda, S., Yoda, S., & Mogi, R. (2021). Educational assortative mating in Japan. *Journal of Population Studies*, 57. [Best Article Award, Population Association of Japan]
+
+## Awards
+
+- 2025: Emil Julius Gumbel Prize, Statistics, Politics and Policy
+- 2024: Best Article Award, Population Association of Japan
+- 2024: Poster Award, Population Association of America
+- 2023: Poster Award, Population Association of America
+- 2021: Special Award for Doctoral Studies, Universitat Autònoma de Barcelona
+
+## Media
+
+Regular contributor to Nikkei Glocal (日経グローカル).
+Quoted/featured in: Financial Times, Bloomberg Japan, Asahi Shimbun, Nikkei Shimbun,
+Forbes Japan, Japan Times, rtve (Spain), TV2 (Denmark), Berlingske (Denmark), Weekly Playboy, VERY.
+
+## Contact
+
+- Email: ryohei.mogi[at]upf.edu
+- Website (EN): https://ryomogi.github.io/
+- Website (JP): https://ryomogi.github.io/japanese/
+- Google Scholar: https://scholar.google.com/citations?user=gfakESwAAAAJ
+- ORCID: https://orcid.org/0000-0001-6654-2468
+- X (EN): https://twitter.com/rmogimogi
+- X (JP): https://twitter.com/rmogi_jpn
+- note (JP): https://note.com/rmogimogi
+- LinkedIn: https://www.linkedin.com/in/ryohei-mogi-45bb73174/
+
+## Japanese summary / 日本語概要
+
+茂木良平（もぎ りょうへい）は、少子化・人口減少を専門とする人口学者。
+スペイン・バルセロナのポンペウ・ファブラ大学研究員（ベアトリウ・デ・ピノスフェロー）。
+佐賀市人口政策アドバイザー、福井県子育て意識調査アドバイザー。
+こども家庭庁・デジタル庁・厚生労働省などへの有識者ヒアリング対応実績あり。
+日経グローカル連載（少子化統計の読み方シリーズ全6回、欧州少子化事情シリーズ全6回）。
+専門は家族人口学・出生力・婚姻行動の国際比較・EBPM（エビデンスに基づく政策立案）。
+1989年生まれ、埼玉県出身。二児の父。
