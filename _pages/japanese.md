@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 茂木良平 | 少子化研究者
+title: 茂木良平 | 少子化研究者・人口学者
 permalink: /japanese/
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
 lang: ja
-description: "研究×政策×社会発信で、少子化課題の理解と改善に取り組みます（日本語）。"
+description: "茂木良平（もぎ りょうへい）— 少子化・人口減少を専門とする人口学者。ポンペウ・ファブラ大学研究員。佐賀市・福井県など自治体の人口政策アドバイザー。EBPM実装支援。日経グローカル連載。Financial Times、朝日新聞、日経新聞等掲載。講演・コンサルティング・メディア対応承ります。"
 nav: true
 ---
 
