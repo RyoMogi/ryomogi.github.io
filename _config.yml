@@ -7,10 +7,12 @@ first_name: Ryohei
 middle_name:
 last_name: Mogi
 email: ryohei.mogi@upf.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Demographer bridging research and action on low fertility. Speaking, consulting, and media commentary (EN/JP)
+description: >
+  Ryohei Mogi (茂木良平) — Demographer specializing in low fertility, population decline, and family demography.
+  Beatriu de Pinós Fellow at Pompeu Fabra University. Policy advisor to Japanese municipalities.
+  Research on Japan, Europe, and global fertility trends. Available for speaking, consulting, and media.
 footer_text: >
-keywords: demography, researcher, fertility, evidence, policy, Japan  # add your own keywords or leave empty
+keywords: demography, low fertility, population decline, family demography, evidence-based policy, Japan, 少子化, 人口減少, 人口学, EBPM, Ryohei Mogi, 茂木良平  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 timezone: Europe/Madrid
@@ -47,7 +49,7 @@ max_width: 800px
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
