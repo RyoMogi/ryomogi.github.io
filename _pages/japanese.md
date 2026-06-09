@@ -102,7 +102,7 @@ nav: true
 #### メディア掲載・出演
 <img width = "750" alt = "メディア出演一例" src = "/assets/img/media_logos_jpn.png">
 
-- [Record-low births shine spotlight on Japan's declining marriage rate](https://www3.nhk.or.jp/nhkworld/en/news/videos/20260603173324381/). 2026年6月3日.
+- [Record-low births shine spotlight on Japan's declining marriage rate](https://www3.nhk.or.jp/nhkworld/en/news/videos/20260603173324381/). NHK WORLD. 2026年6月3日.（英語）
 - 日本テレビ「ZIP!」ニュースのギモン. 2026年5月5日.
 - [Love, engineered in the age of AI](https://www.japantimes.co.jp/life/2026/02/13/lifestyle/japan-ai-dating-marriage/). Japan Times. 2026年2月13日.（英語）
 - [この1年で90万人減 深刻な課題“人口減少” 少子化対策は何のため？ 専門家｢国や社会のためではなく“個人の理想子ども数”を産めるための支援｣](https://newsdig.tbs.co.jp/articles/-/2367350?display=1). 報道のチカラ2025, CBCテレビ. 2025年12月28日.
